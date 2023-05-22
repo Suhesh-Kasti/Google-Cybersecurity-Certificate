@@ -14,8 +14,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "991188b489b84224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Foundations of Cybersecurity/Tools for protecting business operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "148e9cca0558e7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -139,16 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6a641c2622706a9",
+  "active": "45e29302d1f0e460",
   "lastOpenFiles": [
-    "Security frameworks and controls.md",
-    "The Eight CISSP security domains.md",
+    "3. Connect and Protect-Networks and Network Security",
+    "2. Play It Safe-Manage Security Risks",
+    "1. Foundations of Cybersecurity",
+    "1. Foundations of Cybersecurity/Professional Statement.md",
+    "Glossary/Course 1 glossary.pdf",
+    "Glossary/Unconfirmed 685747.crdownload",
+    "1. Foundations of Cybersecurity/Tools for protecting business operations.md",
+    "Glossary/Week 4.md",
+    "1. Foundations of Cybersecurity/Security frameworks and controls.md",
+    "1. Foundations of Cybersecurity/The Eight CISSP security domains.md",
     "Glossary/Week 3.md",
     "Glossary/Threat actor types.md",
     "Glossary/Attack types.md",
     "Glossary/Week 2.md",
     "Glossary/Week 1.md",
-    "Untitled",
     "Glossary"
   ]
 }
