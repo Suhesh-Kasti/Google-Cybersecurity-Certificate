@@ -6,6 +6,9 @@
 
 **Confidentiality, integrity, availability (CIA) triad:** A model that helps inform how organizations consider risk when setting up systems and security policies
 
+**Compliance** is the process of adhering to internal standards and external regulations.
+The more aligned an organization is with compliance, the lower the risk. 
+
 **Hacktivist:** A person who uses hacking to achieve a political goal
 
 **Health Insurance Portability and Accountability Act (HIPAA):** A U.S. federal law established to protect patients' health information
@@ -31,3 +34,5 @@
 **Security governance:** Practices that help support, define, and direct security efforts of an organization
 
 **Sensitive personally identifiable information (SPII):** A specific type of PII that falls under stricter handling guidelines
+
+Compliance

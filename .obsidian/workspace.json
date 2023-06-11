@@ -4,43 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d082127cda6b8e48",
+        "id": "43a1febd4c587898",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a641c2622706a9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "991188b489b84224",
+            "id": "4167881f43da99d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Foundations of Cybersecurity/Tools for protecting business operations.md",
+                "file": "Glossary/Week 8.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "148e9cca0558e7b4",
+            "id": "b5975b60fc1b582e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Glossary/Week 9.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Glossary/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Glossary/Week 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Glossary/Week 8.md"
               }
             }
           }
@@ -170,21 +162,42 @@
   },
   "active": "45e29302d1f0e460",
   "lastOpenFiles": [
-    "3. Connect and Protect-Networks and Network Security",
-    "2. Play It Safe-Manage Security Risks",
-    "1. Foundations of Cybersecurity",
-    "1. Foundations of Cybersecurity/Professional Statement.md",
-    "Glossary/Course 1 glossary.pdf",
-    "Glossary/Unconfirmed 685747.crdownload",
-    "1. Foundations of Cybersecurity/Tools for protecting business operations.md",
+    "Certificates/2.pdf",
+    "Certificates/1.pdf",
+    "Certificates",
+    "Certificate",
+    "1.pdf",
+    "Unconfirmed 672812.crdownload",
+    "2.pdf",
+    "Unconfirmed 326617.crdownload",
+    "Glossary/Week 8.md",
+    "Glossary/Week 9.md",
+    "Activities/Security audit of Botium Toys/Compliance checklist-X.pdf",
+    "Activities/Security audit of Botium Toys/Unconfirmed 339394.crdownload",
+    "Activities/Security audit of Botium Toys/Controls assessment-X.pdf",
+    "Glossary/Week 6.md",
+    "Glossary/Week 7.md",
+    "Glossary/Goongi-ho-template-without-text.jpg",
+    "Glossary/Week 5.md",
     "Glossary/Week 4.md",
-    "1. Foundations of Cybersecurity/Security frameworks and controls.md",
-    "1. Foundations of Cybersecurity/The Eight CISSP security domains.md",
     "Glossary/Week 3.md",
-    "Glossary/Threat actor types.md",
-    "Glossary/Attack types.md",
     "Glossary/Week 2.md",
     "Glossary/Week 1.md",
-    "Glossary"
+    "2. Play It Safe-Manage Security Risks/NIST RMF.md",
+    "2. Play It Safe-Manage Security Risks/NIST frameworks/3.  Security architecture and engineering.md",
+    "README.md",
+    "2. Play It Safe-Manage Security Risks/OWASP security principles.md",
+    "2. Play It Safe-Manage Security Risks/NIST frameworks/6. Security assessment and testing.md",
+    "2. Play It Safe-Manage Security Risks/NIST frameworks/7. Security operations.md",
+    "2. Play It Safe-Manage Security Risks/NIST frameworks/5. Identity and access management.md",
+    "2. Play It Safe-Manage Security Risks/NIST frameworks/4. Communication and network security.md",
+    "2. Play It Safe-Manage Security Risks/NIST frameworks/1. Security and risk management.md",
+    "2. Play It Safe-Manage Security Risks/NIST frameworks/2.  Asset security.md",
+    "2. Play It Safe-Manage Security Risks/NIST frameworks/8. Software development security.md",
+    "Glossary/Threat actor types.md",
+    "1. Foundations of Cybersecurity/The Eight CISSP security domains.md",
+    "1. Foundations of Cybersecurity/Tools for protecting business operations.md",
+    "1. Foundations of Cybersecurity/Security frameworks and controls.md",
+    "1. Foundations of Cybersecurity/Professional Statement.md"
   ]
 }
