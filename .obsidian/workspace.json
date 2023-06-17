@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b5e5feb289f0508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Week 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/4. Communication and network security.md",
+                "file": "Glossary/Week 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/4. Communication and network security.md",
+                "file": "Glossary/Week 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/4. Communication and network security.md"
+                "file": "Glossary/Week 12.md"
               }
             }
           }
@@ -149,9 +162,11 @@
   },
   "active": "45e29302d1f0e460",
   "lastOpenFiles": [
+    "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/4. Communication and network security.md",
+    "Glossary/Week 12.md",
     "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/1. Security and risk management.md",
     "2. Play It Safe-Manage Security Risks/NIST RMF.md",
-    "Week 11.md",
+    "Glossary/Week 11.md",
     "2. Play It Safe-Manage Security Risks/Cloud security considerations.md",
     "2. Play It Safe-Manage Security Risks/Archuuuu.pdf",
     "2. Play It Safe-Manage Security Risks/Network hardening devices.md",
@@ -164,8 +179,8 @@
     "Activities/Network hardening",
     "Glossary/Week 8.md",
     "Glossary/Week 10.md",
-    "Certificates/2.pdf",
-    "Certificates/1.pdf",
+    "Glossary/Certificates/2.pdf",
+    "Glossary/Certificates/1.pdf",
     "Glossary/Week 9.md",
     "Glossary/Week 6.md",
     "Glossary/Week 7.md",
@@ -181,10 +196,8 @@
     "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/6. Security assessment and testing.md",
     "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/7. Security operations.md",
     "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/5. Identity and access management.md",
-    "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/4. Communication and network security.md",
     "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/2.  Asset security.md",
     "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/8. Software development security.md",
-    "Glossary/Threat actor types.md",
-    "1. Foundations of Cybersecurity/The Eight CISSP security domains.md"
+    "Glossary/Threat actor types.md"
   ]
 }
