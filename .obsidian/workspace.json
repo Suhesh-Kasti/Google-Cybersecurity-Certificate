@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f999100d9bc1efc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/4. Communication and network security.md",
+                "file": "Week 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/4. Communication and network security.md",
+                "file": "Week 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/4. Communication and network security.md"
+                "file": "Week 14.md"
               }
             }
           }
@@ -172,9 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45e29302d1f0e460",
+  "active": "f999100d9bc1efc5",
   "lastOpenFiles": [
     "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/4. Communication and network security.md",
+    "Week 14.md",
     "Glossary/Week 13.md",
     "Glossary/Week 12.md",
     "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/1. Security and risk management.md",
@@ -209,7 +222,6 @@
     "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/6. Security assessment and testing.md",
     "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/7. Security operations.md",
     "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/5. Identity and access management.md",
-    "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/2.  Asset security.md",
-    "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/8. Software development security.md"
+    "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/2.  Asset security.md"
   ]
 }
