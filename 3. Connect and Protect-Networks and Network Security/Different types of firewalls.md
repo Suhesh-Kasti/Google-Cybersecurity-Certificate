@@ -1,0 +1,17 @@
+A **firewall** is a network security device that monitors traffic to and from your network. It either allows traffic or it blocks it based on a defined set of security rules. A firewall can use port filtering, which blocks or allows certain port numbers to limit unwanted communication. For example, it could have a rule that only allows communications on port 443 for HTTPS or port 25 for email and blocks everything else. These firewall settings will be determined by the organization's security policy.
+
+## Different kinds of firewalls
+
+### Hardware firewall VS Software Firewall
+A hardware firewall is considered the most basic way to defend against threats to a network. A hardware firewall inspects each data packet before it's allowed to enter the network. A software firewall performs the same functions as a hardware firewall, but it's not a physical device. Instead, it's a software program installed on a computer or on a server. If the software firewall is installed on a computer, it will analyze all the traffic received by that computer. If the software firewall is installed on a server, it will protect all the devices connected to the server. A software firewall typically costs less than purchasing a separate physical device, and it doesn't take up any extra space. But because it is a software program, it will add some processing burden to the individual devices.
+
+### Cloud based Firewalls
+Organizations may choose to use a cloud-based firewall. Cloud service providers offer firewalls as a service, or FaaS, for organizations. Cloud-based firewalls are software firewalls hosted by a cloud service provider. Organizations can configure the firewall rules on the cloud service provider's interface, and the firewall will perform security operations on all incoming traffic before it reaches the organization’s onsite network. Cloud-based firewalls also protect any assets or processes that an organization might be using in the cloud.
+
+## Stateful or Stateless
+The terms "stateful" and "stateless" refer to how the firewall operates. 
+**Stateful** refers to a class of firewall that keeps track of information passing through it and proactively filters out threats. A stateful firewall analyzes network traffic for characteristics and behavior that appear suspicious and stops them from entering the network. 
+**Stateless** refers to a class of firewall that operates based on predefined rules and does not keep track of information from data packets. A stateless firewall only acts according to preconfigured rules set by the firewall administrator. The rules programmed by the firewall administrator tell the device what to accept and what to reject. A stateless firewall doesn't store analyzed information. It also doesn't discover suspicious trends like a stateful firewall does. For this reason, *stateless firewalls are considered less secure than stateful firewalls.*
+
+### Next generation firewall(NGFW)
+**NGFW** provides even more security than a stateful firewall. Not only does an NGFW provide stateful inspection of incoming and outgoing traffic, but it also performs more in-depth security functions like deep packet inspection and intrusion protection. Some NGFWs connect to cloud-based threat intelligence services so they can quickly update to protect against emerging cyber threats.

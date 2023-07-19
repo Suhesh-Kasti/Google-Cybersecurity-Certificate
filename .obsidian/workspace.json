@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5ccb2ae1610a11ea",
+        "id": "aa2451347b41a844",
         "type": "tabs",
         "children": [
           {
-            "id": "276573f70f0b116c",
+            "id": "ea755572f7fd131d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Week 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4847476e99f4ca8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Week 18.md",
+                "file": "3. Connect and Protect-Networks and Network Security/Cloud network.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Week 18.md",
+                "file": "3. Connect and Protect-Networks and Network Security/Cloud network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Week 18.md",
+                "file": "3. Connect and Protect-Networks and Network Security/Cloud network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Week 18.md"
+                "file": "3. Connect and Protect-Networks and Network Security/Cloud network.md"
               }
             }
           }
@@ -162,20 +149,34 @@
   },
   "active": "45e29302d1f0e460",
   "lastOpenFiles": [
-    "Glossary/Week 17.md",
+    "3. Connect and Protect-Networks and Network Security/Cryptography and cloud security.md",
+    "3. Connect and Protect-Networks and Network Security/Cloud network.md",
+    "3. Connect and Protect-Networks and Network Security/Network security applications.md",
+    "3. Connect and Protect-Networks and Network Security/OS hardening.md",
+    "3. Connect and Protect-Networks and Network Security/Network hardening..md",
+    "3. Connect and Protect-Networks and Network Security/Brute force attacks and OS hardening.md",
+    "3. Connect and Protect-Networks and Network Security/IP spoofing.md",
+    "3. Connect and Protect-Networks and Network Security/Packet sniffing.md",
+    "3. Connect and Protect-Networks and Network Security/Tcpdump logs.md",
+    "3. Connect and Protect-Networks and Network Security/Denial of service.md",
+    "3. Connect and Protect-Networks and Network Security/How intrusions compromise your system.md",
+    "3. Connect and Protect-Networks and Network Security/VPN protocols.md",
+    "3. Connect and Protect-Networks and Network Security/Virtual networks and privacy.md",
+    "3. Connect and Protect-Networks and Network Security/Proxy Servers.md",
+    "3. Connect and Protect-Networks and Network Security/Network Address Translation.md",
+    "3. Connect and Protect-Networks and Network Security/Common network protocols.md",
+    "3. Connect and Protect-Networks and Network Security/Introduction to wireless communication protocols.md",
+    "3. Connect and Protect-Networks and Network Security/Operations at the network layer.md",
+    "3. Connect and Protect-Networks and Network Security/Network Segregation.md",
+    "3. Connect and Protect-Networks and Network Security/Computing processes in the cloud.md",
+    "3. Connect and Protect-Networks and Network Security/Different types of firewalls.md",
+    "3. Connect and Protect-Networks and Network Security/Virtual private networks, or VPNs.md",
+    "3. Connect and Protect-Networks and Network Security/Pasted image 20230719151318.png",
     "Glossary/Week 18.md",
+    "Glossary/Week 17.md",
     "Glossary/Week 14.md",
     "Glossary/Week 15.md",
-    "Glossary/Week 16.md",
-    "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/4. Communication and network security.md",
-    "Glossary/Week 13.md",
-    "Glossary/Week 12.md",
-    "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/1. Security and risk management.md",
-    "2. Play It Safe-Manage Security Risks/NIST RMF.md",
-    "Glossary/Week 11.md",
-    "2. Play It Safe-Manage Security Risks/Cloud security considerations.md",
     "2. Play It Safe-Manage Security Risks/Archuuuu.pdf",
-    "2. Play It Safe-Manage Security Risks/Network hardening devices.md",
     "Activities/Network hardening/Security risk assessment report exemplar.pdf",
     "Activities/Network hardening/Unconfirmed 75856.crdownload",
     "Activities/Network hardening/Security risk assessment report-X.pdf",
@@ -183,21 +184,8 @@
     "Activities/Network hardening/Network hardening tools - Sheet1.pdf",
     "Activities/Network hardening/Unconfirmed 158882.crdownload",
     "Activities/Network hardening",
-    "Glossary/Week 8.md",
-    "Glossary/Week 10.md",
     "Glossary/Certificates/2.pdf",
     "Glossary/Certificates/1.pdf",
-    "Glossary/Week 9.md",
-    "Glossary/Week 6.md",
-    "Glossary/Week 7.md",
-    "Glossary/Goongi-ho-template-without-text.jpg",
-    "Glossary/Week 5.md",
-    "Glossary/Week 4.md",
-    "Glossary/Week 3.md",
-    "Glossary/Week 2.md",
-    "Glossary/Week 1.md",
-    "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/3.  Security architecture and engineering.md",
-    "README.md",
-    "2. Play It Safe-Manage Security Risks/OWASP security principles.md"
+    "Glossary/Goongi-ho-template-without-text.jpg"
   ]
 }
