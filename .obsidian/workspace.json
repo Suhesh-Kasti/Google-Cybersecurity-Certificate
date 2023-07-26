@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "013354c717463d0a",
+            "id": "f0b07854c98b8530",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5. Assets, Threats, and Vulnerabilities/Common vulnerabilities and exposures.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. Assets, Threats, and Vulnerabilities/Common vulnerabilities and exposures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5. Assets, Threats, and Vulnerabilities/Common vulnerabilities and exposures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5. Assets, Threats, and Vulnerabilities/Common vulnerabilities and exposures.md"
+              }
             }
           }
         ]
@@ -139,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "013354c717463d0a",
+  "active": "f0b07854c98b8530",
   "lastOpenFiles": [
+    "5. Assets, Threats, and Vulnerabilities/Defense in depth.md",
+    "5. Assets, Threats, and Vulnerabilities/Fortify against brute force cyber attacks.md",
     "Glossary/Week 19.md",
     "Glossary/Week 1.md",
     "5. Assets, Threats, and Vulnerabilities/Pathways through defenses.md",
@@ -153,7 +163,6 @@
     "5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md",
     "5. Assets, Threats, and Vulnerabilities/Open source intelligence(OSINT).md",
     "5. Assets, Threats, and Vulnerabilities/Common vulnerabilities and exposures.md",
-    "5. Assets, Threats, and Vulnerabilities/Defense in depth.md",
     "5. Assets, Threats, and Vulnerabilities/Vulnerability management.md",
     "5. Assets, Threats, and Vulnerabilities/Identity and access management.md",
     "5. Assets, Threats, and Vulnerabilities/Accounting - Why we monitor access?.md",
@@ -166,7 +175,6 @@
     "README.md",
     "5. Assets, Threats, and Vulnerabilities/Fundamentals of cryptography.md",
     "5. Assets, Threats, and Vulnerabilities/Information privacy - Regulations and compliance.md",
-    "5. Assets, Threats, and Vulnerabilities/The data lifecycle.md",
     "5. Assets, Threats, and Vulnerabilities",
     "3. Connect and Protect-Networks and Network Security/Pasted image 20230719151318.png",
     "2. Play It Safe-Manage Security Risks/Archuuuu.pdf",
