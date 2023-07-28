@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15b15aaff84e107c",
+        "id": "ca5b06174f0c3157",
         "type": "tabs",
         "children": [
           {
-            "id": "4800592a2cd30796",
+            "id": "6abb8babd226bee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md",
+                "file": "4. Tools of the Trade- Linux and SQL/SQL/Introducing database and SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md",
+                "file": "4. Tools of the Trade- Linux and SQL/SQL/Introducing database and SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md",
+                "file": "4. Tools of the Trade- Linux and SQL/SQL/Introducing database and SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md"
+                "file": "4. Tools of the Trade- Linux and SQL/SQL/Introducing database and SQL.md"
               }
             }
           }
@@ -147,10 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45e29302d1f0e460",
+  "active": "6abb8babd226bee3",
   "lastOpenFiles": [
-    "5. Assets, Threats, and Vulnerabilities/Malwares.md",
     "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md",
+    "4. Tools of the Trade- Linux and SQL/SQL/Introducing database and SQL.md",
+    "4. Tools of the Trade- Linux and SQL/SQL",
+    "4. Tools of the Trade- Linux and SQL/Linux",
+    "4. Tools of the Trade- Linux and SQL",
+    "5. Assets, Threats, and Vulnerabilities/Malwares.md",
     "5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md",
     "5. Assets, Threats, and Vulnerabilities/Common vulnerabilities and exposures.md",
     "5. Assets, Threats, and Vulnerabilities/Defense in depth.md",
@@ -174,7 +178,6 @@
     "5. Assets, Threats, and Vulnerabilities/Access controls and authentication systems.md",
     "5. Assets, Threats, and Vulnerabilities/Non-repudiation and hashing.md",
     "3. Connect and Protect-Networks and Network Security/Cryptography and cloud security.md",
-    "5. Assets, Threats, and Vulnerabilities/Symmetric and asymmetric encryption.md",
     "5. Assets, Threats, and Vulnerabilities",
     "3. Connect and Protect-Networks and Network Security/Pasted image 20230719151318.png",
     "2. Play It Safe-Manage Security Risks/Archuuuu.pdf",
@@ -183,9 +186,6 @@
     "Activities/Network hardening/Security risk assessment report-X.pdf",
     "Activities/Network hardening/Unconfirmed 162980.crdownload",
     "Activities/Network hardening/Network hardening tools - Sheet1.pdf",
-    "Activities/Network hardening/Unconfirmed 158882.crdownload",
-    "Activities/Network hardening",
-    "Glossary/Certificates/2.pdf",
     "Glossary/Goongi-ho-template-without-text.jpg"
   ]
 }
