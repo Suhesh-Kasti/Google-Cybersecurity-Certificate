@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "37b9ddcac85d4a7a",
+        "id": "2b0cdf3f4c93caca",
         "type": "tabs",
         "children": [
           {
-            "id": "638ac2236a7dc393",
+            "id": "6abdde0e995f434c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "638ac2236a7dc393",
+  "active": "6abdde0e995f434c",
   "lastOpenFiles": [
+    "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md",
     "Glossary/Course 4 glossary.pdf",
     "Certificates/5.pdf",
     "Glossary/Course 5 glossary.pdf",
@@ -156,7 +149,6 @@
     "5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md",
     "Glossary/Week 20.md",
     "5. Assets, Threats, and Vulnerabilities/Threat modeling - A proactive approach to security.md",
-    "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md",
     "Activities/Threat Modeling/PASTA worksheet.pdf",
     "Activities/Threat Modeling/PASTA data flow diagram.pdf",
     "Activities/Threat Modeling/PASTA attack tree.pdf",
