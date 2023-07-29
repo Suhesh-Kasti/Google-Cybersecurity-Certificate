@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "15b15aaff84e107c",
+        "id": "5e57b8e38d873085",
         "type": "tabs",
         "children": [
           {
-            "id": "4800592a2cd30796",
+            "id": "5613e74f58cd1fa9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,45 +139,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45e29302d1f0e460",
+  "active": "5613e74f58cd1fa9",
   "lastOpenFiles": [
-    "5. Assets, Threats, and Vulnerabilities/Malwares.md",
-    "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md",
-    "5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md",
-    "5. Assets, Threats, and Vulnerabilities/Common vulnerabilities and exposures.md",
-    "5. Assets, Threats, and Vulnerabilities/Defense in depth.md",
-    "5. Assets, Threats, and Vulnerabilities/Fortify against brute force cyber attacks.md",
-    "Glossary/Week 19.md",
-    "Glossary/Week 1.md",
-    "5. Assets, Threats, and Vulnerabilities/Pathways through defenses.md",
-    "5. Assets, Threats, and Vulnerabilities/Types of threat actors.md",
-    "5. Assets, Threats, and Vulnerabilities/Approach cybersecurity with an attacker mindset.md",
-    "5. Assets, Threats, and Vulnerabilities/Protect all entry points.md",
-    "5. Assets, Threats, and Vulnerabilities/Penetration testing.md",
-    "5. Assets, Threats, and Vulnerabilities/Patches and updates.md",
-    "5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md",
-    "5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md",
-    "5. Assets, Threats, and Vulnerabilities/Open source intelligence(OSINT).md",
-    "5. Assets, Threats, and Vulnerabilities/Vulnerability management.md",
-    "5. Assets, Threats, and Vulnerabilities/Identity and access management.md",
-    "5. Assets, Threats, and Vulnerabilities/Accounting - Why we monitor access?.md",
-    "5. Assets, Threats, and Vulnerabilities/The mechanisms of authorization.md",
-    "5. Assets, Threats, and Vulnerabilities/The rise of SSO and MFA.md",
-    "5. Assets, Threats, and Vulnerabilities/Access controls and authentication systems.md",
-    "5. Assets, Threats, and Vulnerabilities/Non-repudiation and hashing.md",
-    "3. Connect and Protect-Networks and Network Security/Cryptography and cloud security.md",
-    "5. Assets, Threats, and Vulnerabilities/Symmetric and asymmetric encryption.md",
+    "Continuing learning SQL.md",
+    "4.Tools of Trade: Linux and SQL/SQL/SQL Joins.md",
+    "4.Tools of Trade: Linux and SQL/SQL/Continuing learning SQL.md",
+    "Activities/SQL/Activity 5.md",
+    "Activity 5.md",
+    "SQL Joins.md",
+    "Activity 4.md",
+    "Activities/SQL/Activity 4.md",
+    "Activities/SQL/Activity 3.md",
+    "Activities/SQL/Activity 2.md",
+    "Activities/SQL/Activity 1.md",
+    "Activities/SQL/Apply filters to SQL queries exemplar.pdf",
+    "Activities/SQL",
+    "4.Tools of Trade: Linux and SQL/SQL/Activity 4.md",
+    "4.Tools of Trade: Linux and SQL/SQL/Activity 3.md",
+    "4.Tools of Trade: Linux and SQL/SQL/Query a database.md",
+    "4.Tools of Trade: Linux and SQL/SQL/Activity 2.md",
+    "4.Tools of Trade: Linux and SQL/SQL/Filters with AND, OR, and NOT.md",
+    "4.Tools of Trade: Linux and SQL/SQL/Filter dates and numbers.md",
+    "4.Tools of Trade: Linux and SQL/SQL/Basic filters on SQL queries.md",
+    "4.Tools of Trade: Linux and SQL/SQL/Activity 1.md",
+    "5. Assets, Threats, and Vulnerabilities/Apply filters to SQL queries exemplar.pdf",
+    "5. Assets, Threats, and Vulnerabilities/Unconfirmed 283332.crdownload",
+    "Filters with AND, OR, and NOT.md",
+    "Activity 3.md",
+    "Filter dates and numbers.md",
+    "Activity 2.md",
+    "Basic filters on SQL queries.md",
+    "Query a database.md",
+    "Activity 1.md",
+    "4.Tools of Trade: Linux and SQL/SQL",
+    "SQL",
     "5. Assets, Threats, and Vulnerabilities",
     "3. Connect and Protect-Networks and Network Security/Pasted image 20230719151318.png",
     "2. Play It Safe-Manage Security Risks/Archuuuu.pdf",
     "Activities/Network hardening/Security risk assessment report exemplar.pdf",
     "Activities/Network hardening/Unconfirmed 75856.crdownload",
-    "Activities/Network hardening/Security risk assessment report-X.pdf",
-    "Activities/Network hardening/Unconfirmed 162980.crdownload",
-    "Activities/Network hardening/Network hardening tools - Sheet1.pdf",
-    "Activities/Network hardening/Unconfirmed 158882.crdownload",
-    "Activities/Network hardening",
-    "Glossary/Certificates/2.pdf",
     "Glossary/Goongi-ho-template-without-text.jpg"
   ]
 }
