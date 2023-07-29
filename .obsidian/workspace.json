@@ -1,34 +1,22 @@
 {
   "main": {
-    "id": "ebd9b6e75b798f5a",
+    "id": "6fed89018081f218",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "5e57b8e38d873085",
+        "id": "37b9ddcac85d4a7a",
         "type": "tabs",
         "children": [
           {
-            "id": "5613e74f58cd1fa9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-=======
-        "id": "ca5b06174f0c3157",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6abb8babd226bee3",
+            "id": "638ac2236a7dc393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Tools of the Trade- Linux and SQL/SQL/Introducing database and SQL.md",
+                "file": "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md",
                 "mode": "source",
                 "source": false
               }
->>>>>>> 482da0c3751e51db58c7cca9418dbec4746a418c
             }
           }
         ]
@@ -37,15 +25,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "afc88528ceff650b",
+    "id": "46a9aab223ce0f21",
     "type": "split",
     "children": [
       {
-        "id": "b80e2875ffb2d88a",
+        "id": "9f73d554724c61f2",
         "type": "tabs",
         "children": [
           {
-            "id": "604a4732d99c5de5",
+            "id": "9d20c91eb3875700",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f358057d9c6b2325",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,48 +58,34 @@
             }
           },
           {
-            "id": "ea4a56096d5e7244",
+            "id": "8b6c8499f566fe1c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "45e29302d1f0e460",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "6e30f32c909cfef0",
+    "id": "f19084c5c04c47c4",
     "type": "split",
     "children": [
       {
-        "id": "35346f64de395ee9",
+        "id": "599d2b463708554b",
         "type": "tabs",
         "children": [
           {
-            "id": "e49a2758b2932245",
+            "id": "4876114c21cfe643",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "4. Tools of the Trade- Linux and SQL/SQL/Introducing database and SQL.md",
->>>>>>> 482da0c3751e51db58c7cca9418dbec4746a418c
+                "file": "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,22 +97,19 @@
             }
           },
           {
-            "id": "1ae424e60cca1b79",
+            "id": "b8d321086bf7ed1a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "4. Tools of the Trade- Linux and SQL/SQL/Introducing database and SQL.md",
->>>>>>> 482da0c3751e51db58c7cca9418dbec4746a418c
+                "file": "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fc2c206f4458908b",
+            "id": "715d2d15f68ff706",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,17 +120,13 @@
             }
           },
           {
-            "id": "c430323ee2a71fd1",
+            "id": "46f0c69e0b59e9cf",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
-                "file": "4. Tools of the Trade- Linux and SQL/SQL/Introducing database and SQL.md"
+                "file": "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md"
               }
->>>>>>> 482da0c3751e51db58c7cca9418dbec4746a418c
             }
           }
         ]
@@ -169,85 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "5613e74f58cd1fa9",
+  "active": "638ac2236a7dc393",
   "lastOpenFiles": [
-    "Continuing learning SQL.md",
-    "4.Tools of Trade: Linux and SQL/SQL/SQL Joins.md",
-    "4.Tools of Trade: Linux and SQL/SQL/Continuing learning SQL.md",
-    "Activities/SQL/Activity 5.md",
-    "Activity 5.md",
-    "SQL Joins.md",
-    "Activity 4.md",
-    "Activities/SQL/Activity 4.md",
-    "Activities/SQL/Activity 3.md",
-    "Activities/SQL/Activity 2.md",
-    "Activities/SQL/Activity 1.md",
-    "Activities/SQL/Apply filters to SQL queries exemplar.pdf",
-    "Activities/SQL",
-    "4.Tools of Trade: Linux and SQL/SQL/Activity 4.md",
-    "4.Tools of Trade: Linux and SQL/SQL/Activity 3.md",
-    "4.Tools of Trade: Linux and SQL/SQL/Query a database.md",
-    "4.Tools of Trade: Linux and SQL/SQL/Activity 2.md",
-    "4.Tools of Trade: Linux and SQL/SQL/Filters with AND, OR, and NOT.md",
-    "4.Tools of Trade: Linux and SQL/SQL/Filter dates and numbers.md",
-    "4.Tools of Trade: Linux and SQL/SQL/Basic filters on SQL queries.md",
-    "4.Tools of Trade: Linux and SQL/SQL/Activity 1.md",
-    "5. Assets, Threats, and Vulnerabilities/Apply filters to SQL queries exemplar.pdf",
-    "5. Assets, Threats, and Vulnerabilities/Unconfirmed 283332.crdownload",
-    "Filters with AND, OR, and NOT.md",
-    "Activity 3.md",
-    "Filter dates and numbers.md",
-    "Activity 2.md",
-    "Basic filters on SQL queries.md",
-    "Query a database.md",
-    "Activity 1.md",
-    "4.Tools of Trade: Linux and SQL/SQL",
-    "SQL",
-=======
-  "active": "6abb8babd226bee3",
-  "lastOpenFiles": [
+    "Glossary/Course 4 glossary.pdf",
+    "Certificates/5.pdf",
+    "Glossary/Course 5 glossary.pdf",
     "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md",
-    "4. Tools of the Trade- Linux and SQL/SQL/Introducing database and SQL.md",
-    "4. Tools of the Trade- Linux and SQL/SQL",
-    "4. Tools of the Trade- Linux and SQL/Linux",
-    "4. Tools of the Trade- Linux and SQL",
-    "5. Assets, Threats, and Vulnerabilities/Malwares.md",
+    "5. Assets, Threats, and Vulnerabilities/Traits of an effective threat model.md",
     "5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md",
-    "5. Assets, Threats, and Vulnerabilities/Common vulnerabilities and exposures.md",
-    "5. Assets, Threats, and Vulnerabilities/Defense in depth.md",
-    "5. Assets, Threats, and Vulnerabilities/Fortify against brute force cyber attacks.md",
-    "Glossary/Week 19.md",
-    "Glossary/Week 1.md",
-    "5. Assets, Threats, and Vulnerabilities/Pathways through defenses.md",
-    "5. Assets, Threats, and Vulnerabilities/Types of threat actors.md",
-    "5. Assets, Threats, and Vulnerabilities/Approach cybersecurity with an attacker mindset.md",
-    "5. Assets, Threats, and Vulnerabilities/Protect all entry points.md",
-    "5. Assets, Threats, and Vulnerabilities/Penetration testing.md",
-    "5. Assets, Threats, and Vulnerabilities/Patches and updates.md",
-    "5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md",
-    "5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md",
-    "5. Assets, Threats, and Vulnerabilities/Open source intelligence(OSINT).md",
-    "5. Assets, Threats, and Vulnerabilities/Vulnerability management.md",
-    "5. Assets, Threats, and Vulnerabilities/Identity and access management.md",
-    "5. Assets, Threats, and Vulnerabilities/Accounting - Why we monitor access?.md",
-    "5. Assets, Threats, and Vulnerabilities/The mechanisms of authorization.md",
-    "5. Assets, Threats, and Vulnerabilities/The rise of SSO and MFA.md",
-    "5. Assets, Threats, and Vulnerabilities/Access controls and authentication systems.md",
-    "5. Assets, Threats, and Vulnerabilities/Non-repudiation and hashing.md",
-    "3. Connect and Protect-Networks and Network Security/Cryptography and cloud security.md",
->>>>>>> 482da0c3751e51db58c7cca9418dbec4746a418c
-    "5. Assets, Threats, and Vulnerabilities",
-    "3. Connect and Protect-Networks and Network Security/Pasted image 20230719151318.png",
-    "2. Play It Safe-Manage Security Risks/Archuuuu.pdf",
-    "Activities/Network hardening/Security risk assessment report exemplar.pdf",
-    "Activities/Network hardening/Unconfirmed 75856.crdownload",
-<<<<<<< HEAD
-=======
-    "Activities/Network hardening/Security risk assessment report-X.pdf",
-    "Activities/Network hardening/Unconfirmed 162980.crdownload",
-    "Activities/Network hardening/Network hardening tools - Sheet1.pdf",
->>>>>>> 482da0c3751e51db58c7cca9418dbec4746a418c
-    "Glossary/Goongi-ho-template-without-text.jpg"
+    "Glossary/Week 20.md",
+    "5. Assets, Threats, and Vulnerabilities/Threat modeling - A proactive approach to security.md",
+    "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md",
+    "Activities/Threat Modeling/PASTA worksheet.pdf",
+    "Activities/Threat Modeling/PASTA data flow diagram.pdf",
+    "Activities/Threat Modeling/PASTA attack tree.pdf",
+    "Activities/Threat Modeling",
+    "5. Assets, Threats, and Vulnerabilities/Fundamentals of cryptography.md",
+    "5. Assets, Threats, and Vulnerabilities/Images",
+    "5. Assets, Threats, and Vulnerabilities/Images/Pasted image 20230729090949.png"
   ]
 }
