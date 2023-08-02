@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6abdde0e995f434c",
+            "id": "71ae1208a3110ab7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md"
+              }
             }
           }
         ]
@@ -138,11 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6abdde0e995f434c",
+  "active": "9d20c91eb3875700",
   "lastOpenFiles": [
+    "6. Sound the Alarm -Detection and Response/Introduction to the incident response lifecycle.md",
+    "6. Sound the Alarm -Detection and Response/Incident response teams.md",
+    "Glossary/Week 21.md",
+    "6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md",
+    "6. Sound the Alarm -Detection and Response/Intrusion detection and prevention tools.md",
+    "6. Sound the Alarm -Detection and Response/Documentation.md",
+    "6. Sound the Alarm -Detection and Response/Incident response plans.md",
+    "Activities/Incident Handling/Incident handler's journal .pdf",
+    "Activities/Incident Handling/Unconfirmed 949258.crdownload",
+    "Activities/Incident Handling",
+    "Certificates/5.pdf",
+    "6. Sound the Alarm -Detection and Response",
     "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md",
     "Glossary/Course 4 glossary.pdf",
-    "Certificates/5.pdf",
     "Glossary/Course 5 glossary.pdf",
     "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md",
     "5. Assets, Threats, and Vulnerabilities/Traits of an effective threat model.md",
@@ -152,9 +171,7 @@
     "Activities/Threat Modeling/PASTA worksheet.pdf",
     "Activities/Threat Modeling/PASTA data flow diagram.pdf",
     "Activities/Threat Modeling/PASTA attack tree.pdf",
-    "Activities/Threat Modeling",
     "5. Assets, Threats, and Vulnerabilities/Fundamentals of cryptography.md",
-    "5. Assets, Threats, and Vulnerabilities/Images",
     "5. Assets, Threats, and Vulnerabilities/Images/Pasted image 20230729090949.png"
   ]
 }
