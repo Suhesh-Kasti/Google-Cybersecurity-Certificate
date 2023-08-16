@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71ae1208a3110ab7",
+            "id": "c5af60d97fe9a088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md",
+                "file": "Packets and packet captures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md",
+                "file": "Packets and packet captures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md",
+                "file": "Packets and packet captures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md"
+                "file": "Packets and packet captures.md"
               }
             }
           }
@@ -146,13 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d20c91eb3875700",
+  "active": "c5af60d97fe9a088",
   "lastOpenFiles": [
+    "Packets and packet captures.md",
+    "6. Sound the Alarm -Detection and Response/The importance of network traffic flows.md",
+    "6. Sound the Alarm -Detection and Response/Intrusion detection and prevention tools.md",
+    "Data exfiltration attacks.md",
+    "6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md",
     "6. Sound the Alarm -Detection and Response/Introduction to the incident response lifecycle.md",
     "6. Sound the Alarm -Detection and Response/Incident response teams.md",
     "Glossary/Week 21.md",
-    "6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md",
-    "6. Sound the Alarm -Detection and Response/Intrusion detection and prevention tools.md",
     "6. Sound the Alarm -Detection and Response/Documentation.md",
     "6. Sound the Alarm -Detection and Response/Incident response plans.md",
     "Activities/Incident Handling/Incident handler's journal .pdf",
