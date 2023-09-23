@@ -1,0 +1,707 @@
+
+1. Foundations of Cybersecurity/Professional Statement.md
+1. Foundations of Cybersecurity/Security frameworks and controls.md
+1. Foundations of Cybersecurity/Security frameworks and controls.md#Security Lifecycle
+1. Foundations of Cybersecurity/Security frameworks and controls.md#Security Lifecycle#Components of security framework
+1. Foundations of Cybersecurity/Security frameworks and controls.md#Security Lifecycle#Purposes of security frameworks :
+1. Foundations of Cybersecurity/Security frameworks and controls.md#Security controls
+1. Foundations of Cybersecurity/The Eight CISSP security domains.md
+1. Foundations of Cybersecurity/The Eight CISSP security domains.md#[[1. Security and risk management]]
+1. Foundations of Cybersecurity/The Eight CISSP security domains.md#[[2.  Asset security]]
+1. Foundations of Cybersecurity/The Eight CISSP security domains.md#[[3.  Security architecture and engineering]]
+1. Foundations of Cybersecurity/The Eight CISSP security domains.md#[[4. Communication and network security]]
+1. Foundations of Cybersecurity/The Eight CISSP security domains.md#[[5. Identity and access management]]
+1. Foundations of Cybersecurity/The Eight CISSP security domains.md#[[6. Security assessment and testing]]
+1. Foundations of Cybersecurity/The Eight CISSP security domains.md#[[7. Security operations]]
+1. Foundations of Cybersecurity/The Eight CISSP security domains.md#[[8. Software development security]]
+1. Foundations of Cybersecurity/Tools for protecting business operations.md
+1. Foundations of Cybersecurity/Tools for protecting business operations.md#Security information and event management (SIEM) tools
+1. Foundations of Cybersecurity/Tools for protecting business operations.md#Security information and event management (SIEM) tools#Network protocol analyzers (packet sniffers)
+1. Foundations of Cybersecurity/Tools for protecting business operations.md#Security information and event management (SIEM) tools#Playbooks
+2. Play It Safe-Manage Security Risks/Cloud security considerations.md
+2. Play It Safe-Manage Security Risks/Cloud security considerations.md#Attack surface
+2. Play It Safe-Manage Security Risks/Cloud security considerations.md#Configuration
+2. Play It Safe-Manage Security Risks/Cloud security considerations.md#Identity access management
+2. Play It Safe-Manage Security Risks/Cloud security considerations.md#Shared responsibility model
+2. Play It Safe-Manage Security Risks/Cloud security considerations.md#Things change fast in the cloud
+2. Play It Safe-Manage Security Risks/Cloud security considerations.md#Visibility and tracking
+2. Play It Safe-Manage Security Risks/Cloud security considerations.md#Zero-day attacks
+2. Play It Safe-Manage Security Risks/NIST RMF.md
+2. Play It Safe-Manage Security Risks/NIST RMF.md#Assess
+2. Play It Safe-Manage Security Risks/NIST RMF.md#Authorize
+2. Play It Safe-Manage Security Risks/NIST RMF.md#Categorize
+2. Play It Safe-Manage Security Risks/NIST RMF.md#Implement
+2. Play It Safe-Manage Security Risks/NIST RMF.md#Monitor
+2. Play It Safe-Manage Security Risks/NIST RMF.md#Prepare
+2. Play It Safe-Manage Security Risks/NIST RMF.md#Select
+2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/1. Security and risk management.md
+2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/2.  Asset security.md
+2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/3.  Security architecture and engineering.md
+2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/4. Communication and network security.md
+2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/5. Identity and access management.md
+2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/6. Security assessment and testing.md
+2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/7. Security operations.md
+2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/8. Software development security.md
+2. Play It Safe-Manage Security Risks/Network hardening devices.md
+2. Play It Safe-Manage Security Risks/OWASP security principles.md
+2. Play It Safe-Manage Security Risks/OWASP security principles.md#Additional OWASP security principles#**Avoid security by obscurity**
+2. Play It Safe-Manage Security Risks/OWASP security principles.md#Additional OWASP security principles#**Don’t trust services**
+2. Play It Safe-Manage Security Risks/OWASP security principles.md#Additional OWASP security principles#**Establish secure defaults**
+2. Play It Safe-Manage Security Risks/OWASP security principles.md#Additional OWASP security principles#**Fail securely**
+3. Connect and Protect-Networks and Network Security/Brute force attacks and OS hardening.md
+3. Connect and Protect-Networks and Network Security/Brute force attacks and OS hardening.md#Assessing vulnerabilities
+3. Connect and Protect-Networks and Network Security/Brute force attacks and OS hardening.md#Assessing vulnerabilities#**Sandbox environments**
+3. Connect and Protect-Networks and Network Security/Brute force attacks and OS hardening.md#Assessing vulnerabilities#**Virtual machines (VMs)**
+3. Connect and Protect-Networks and Network Security/Brute force attacks and OS hardening.md#Brute force attacks
+3. Connect and Protect-Networks and Network Security/Brute force attacks and OS hardening.md#Prevention measures
+3. Connect and Protect-Networks and Network Security/Cloud network.md
+3. Connect and Protect-Networks and Network Security/Cloud network.md#Secure the cloud
+3. Connect and Protect-Networks and Network Security/Cloud network.md#Secure the cloud#Cloud security considerations
+3. Connect and Protect-Networks and Network Security/Cloud network.md#Secure the cloud#Cloud security considerations#Attack surface
+3. Connect and Protect-Networks and Network Security/Cloud network.md#Secure the cloud#Cloud security considerations#Configuration
+3. Connect and Protect-Networks and Network Security/Cloud network.md#Secure the cloud#Cloud security considerations#Identity access management
+3. Connect and Protect-Networks and Network Security/Cloud network.md#Secure the cloud#Cloud security considerations#Things change fast in the cloud
+3. Connect and Protect-Networks and Network Security/Cloud network.md#Secure the cloud#Cloud security considerations#Visibility and tracking
+3. Connect and Protect-Networks and Network Security/Cloud network.md#Secure the cloud#Cloud security considerations#Zero-day attacks
+3. Connect and Protect-Networks and Network Security/Cloud network.md#Secure the cloud#Shared responsibility model
+3. Connect and Protect-Networks and Network Security/Common network protocols.md
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Address Resolution Protocol
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Dynamic Host Configuration Protocol
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Internet Message Access Protocol (IMAP)
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Overview of network protocols
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Post office protocol
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Protocols and port numbers
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Secure shell
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Simple Mail Transfer Protocol
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Telnet
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Three categories of network protocols
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Three categories of network protocols#**Communication protocols**
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Three categories of network protocols#**Management Protocols**
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#Three categories of network protocols#**Security Protocols**
+3. Connect and Protect-Networks and Network Security/Common network protocols.md#[[Network Address Translation]]
+3. Connect and Protect-Networks and Network Security/Computing processes in the cloud.md
+3. Connect and Protect-Networks and Network Security/Computing processes in the cloud.md#Benefits of cloud computing and software-defined networks
+3. Connect and Protect-Networks and Network Security/Computing processes in the cloud.md#Benefits of cloud computing and software-defined networks#Cost
+3. Connect and Protect-Networks and Network Security/Computing processes in the cloud.md#Benefits of cloud computing and software-defined networks#Reliability
+3. Connect and Protect-Networks and Network Security/Computing processes in the cloud.md#Benefits of cloud computing and software-defined networks#Scalability
+3. Connect and Protect-Networks and Network Security/Computing processes in the cloud.md#Hybrid cloud environments
+3. Connect and Protect-Networks and Network Security/Computing processes in the cloud.md#Software-defined networks
+3. Connect and Protect-Networks and Network Security/Cryptography and cloud security.md
+3. Connect and Protect-Networks and Network Security/Cryptography and cloud security.md#Cloud security hardening
+3. Connect and Protect-Networks and Network Security/Cryptography and cloud security.md#Cloud security hardening#Baselining
+3. Connect and Protect-Networks and Network Security/Cryptography and cloud security.md#Cloud security hardening#Hypervisors
+3. Connect and Protect-Networks and Network Security/Cryptography and cloud security.md#Cloud security hardening#Identity access management (IAM)
+3. Connect and Protect-Networks and Network Security/Cryptography and cloud security.md#Cryptographic erasure
+3. Connect and Protect-Networks and Network Security/Cryptography and cloud security.md#Cryptography in the cloud
+3. Connect and Protect-Networks and Network Security/Cryptography and cloud security.md#Key Management
+3. Connect and Protect-Networks and Network Security/Denial of service.md
+3. Connect and Protect-Networks and Network Security/Denial of service.md#ICMP flood
+3. Connect and Protect-Networks and Network Security/Denial of service.md#Ping of death
+3. Connect and Protect-Networks and Network Security/Denial of service.md#SYN flood attack
+3. Connect and Protect-Networks and Network Security/Different types of firewalls.md
+3. Connect and Protect-Networks and Network Security/Different types of firewalls.md#Different kinds of firewalls#Cloud based Firewalls
+3. Connect and Protect-Networks and Network Security/Different types of firewalls.md#Different kinds of firewalls#Hardware firewall VS Software Firewall
+3. Connect and Protect-Networks and Network Security/Different types of firewalls.md#Stateful or Stateless
+3. Connect and Protect-Networks and Network Security/Different types of firewalls.md#Stateful or Stateless#Next generation firewall(NGFW)
+3. Connect and Protect-Networks and Network Security/How intrusions compromise your system.md
+3. Connect and Protect-Networks and Network Security/How intrusions compromise your system.md#Backdoor attacks
+3. Connect and Protect-Networks and Network Security/How intrusions compromise your system.md#Network interception attacks
+3. Connect and Protect-Networks and Network Security/How intrusions compromise your system.md#Possible impacts on an organization
+3. Connect and Protect-Networks and Network Security/IP spoofing.md
+3. Connect and Protect-Networks and Network Security/IP spoofing.md#DoS attack
+3. Connect and Protect-Networks and Network Security/IP spoofing.md#On-path attack
+3. Connect and Protect-Networks and Network Security/IP spoofing.md#Prevention techniques
+3. Connect and Protect-Networks and Network Security/IP spoofing.md#Replay attack
+3. Connect and Protect-Networks and Network Security/IP spoofing.md#Smurf attack
+3. Connect and Protect-Networks and Network Security/Introduction to wireless communication protocols.md
+3. Connect and Protect-Networks and Network Security/Introduction to wireless communication protocols.md#**WPA2 & WPA3**#**Enterprise**
+3. Connect and Protect-Networks and Network Security/Introduction to wireless communication protocols.md#**WPA2 & WPA3**#**Personal**
+3. Connect and Protect-Networks and Network Security/Introduction to wireless communication protocols.md#**WPA2 & WPA3**#**WPA2**
+3. Connect and Protect-Networks and Network Security/Introduction to wireless communication protocols.md#**WPA2 & WPA3**#**WPA3**
+3. Connect and Protect-Networks and Network Security/Introduction to wireless communication protocols.md#**Wi-Fi Protected Access**
+3. Connect and Protect-Networks and Network Security/Introduction to wireless communication protocols.md#**Wired Equivalent Privacy**
+3. Connect and Protect-Networks and Network Security/Network Address Translation.md
+3. Connect and Protect-Networks and Network Security/Network Address Translation.md#Subnetting and CIDR
+3. Connect and Protect-Networks and Network Security/Network Address Translation.md#Subnetting and CIDR#Classless Inter-Domain Routing notation for subnetting
+3. Connect and Protect-Networks and Network Security/Network Address Translation.md#Subnetting and CIDR#Classless Inter-Domain Routing notation for subnetting#Security benefits of subnetting
+3. Connect and Protect-Networks and Network Security/Network Segregation.md
+3. Connect and Protect-Networks and Network Security/Network hardening..md
+3. Connect and Protect-Networks and Network Security/Network security applications.md
+3. Connect and Protect-Networks and Network Security/Network security applications.md#Firewall
+3. Connect and Protect-Networks and Network Security/Network security applications.md#Full packet capture devices
+3. Connect and Protect-Networks and Network Security/Network security applications.md#Intrusion Detection System
+3. Connect and Protect-Networks and Network Security/Network security applications.md#Intrusion Prevention System
+3. Connect and Protect-Networks and Network Security/Network security applications.md#Key takeaways
+3. Connect and Protect-Networks and Network Security/Network security applications.md#Security Information and Event Management
+3. Connect and Protect-Networks and Network Security/OS hardening.md
+3. Connect and Protect-Networks and Network Security/Operations at the network layer.md
+3. Connect and Protect-Networks and Network Security/Operations at the network layer.md#Difference between IPv4 and IPv6
+3. Connect and Protect-Networks and Network Security/Operations at the network layer.md#Format of an IPv4 packet
+3. Connect and Protect-Networks and Network Security/Packet sniffing.md
+3. Connect and Protect-Networks and Network Security/Packet sniffing.md#Preventives
+3. Connect and Protect-Networks and Network Security/Packet sniffing.md#Types of packet sniffing
+3. Connect and Protect-Networks and Network Security/Proxy Servers.md
+3. Connect and Protect-Networks and Network Security/Tcpdump logs.md
+3. Connect and Protect-Networks and Network Security/Tcpdump logs.md#Common uses
+3. Connect and Protect-Networks and Network Security/Tcpdump logs.md#Interpreting output
+3. Connect and Protect-Networks and Network Security/Tcpdump logs.md#tcpdump
+3. Connect and Protect-Networks and Network Security/VPN protocols.md
+3. Connect and Protect-Networks and Network Security/VPN protocols.md#Wireguard and IPSec
+3. Connect and Protect-Networks and Network Security/VPN protocols.md#Wireguard and IPSec#Remote access and site-to-site VPNs
+3. Connect and Protect-Networks and Network Security/VPN protocols.md#Wireguard and IPSec#WireGuard VPN vs. IPSec VPN
+3. Connect and Protect-Networks and Network Security/VPN protocols.md#Wireguard and IPSec#WireGuard VPN vs. IPSec VPN#IPSec VPN
+3. Connect and Protect-Networks and Network Security/VPN protocols.md#Wireguard and IPSec#WireGuard VPN vs. IPSec VPN#WireGuard VPN
+3. Connect and Protect-Networks and Network Security/Virtual networks and privacy.md
+3. Connect and Protect-Networks and Network Security/Virtual networks and privacy.md#**Common network protocols**
+3. Connect and Protect-Networks and Network Security/Virtual networks and privacy.md#**Network security tools and practices**#**Firewalls**
+3. Connect and Protect-Networks and Network Security/Virtual networks and privacy.md#**Network security tools and practices**#**Proxy servers**
+3. Connect and Protect-Networks and Network Security/Virtual networks and privacy.md#**Network security tools and practices**#**Virtual Private Networks (VPN)**
+3. Connect and Protect-Networks and Network Security/Virtual networks and privacy.md#**Wi-Fi**
+3. Connect and Protect-Networks and Network Security/Virtual private networks, or VPNs.md
+4.Tools of Trade: Linux and SQL/SQL/Basic filters on SQL queries.md
+4.Tools of Trade: Linux and SQL/SQL/Basic filters on SQL queries.md#The WHERE clause and basic operators#Filtering for patterns
+4.Tools of Trade: Linux and SQL/SQL/Basic filters on SQL queries.md#The WHERE clause and basic operators#Filtering for patterns#**LIKE**
+4.Tools of Trade: Linux and SQL/SQL/Basic filters on SQL queries.md#The WHERE clause and basic operators#Filtering for patterns#**Wildcards**
+4.Tools of Trade: Linux and SQL/SQL/Basic filters on SQL queries.md#The WHERE clause and basic operators#How filtering helps
+4.Tools of Trade: Linux and SQL/SQL/Basic filters on SQL queries.md#The WHERE clause and basic operators#WHERE
+4.Tools of Trade: Linux and SQL/SQL/Continuing learning SQL.md
+4.Tools of Trade: Linux and SQL/SQL/Continuing learning SQL.md#Aggregate functions
+4.Tools of Trade: Linux and SQL/SQL/Continuing learning SQL.md#Aggregate functions#**Aggregate function syntax**
+4.Tools of Trade: Linux and SQL/SQL/Filter dates and numbers.md
+4.Tools of Trade: Linux and SQL/SQL/Filter dates and numbers.md#Comparison operators
+4.Tools of Trade: Linux and SQL/SQL/Filter dates and numbers.md#Comparison operators#**BETWEEN**
+4.Tools of Trade: Linux and SQL/SQL/Filter dates and numbers.md#Comparison operators#Incorporating operators into filters
+4.Tools of Trade: Linux and SQL/SQL/Filter dates and numbers.md#Numbers, dates, and times in cybersecurity
+4.Tools of Trade: Linux and SQL/SQL/Filters with AND, OR, and NOT.md
+4.Tools of Trade: Linux and SQL/SQL/Filters with AND, OR, and NOT.md#Combining logical operators
+4.Tools of Trade: Linux and SQL/SQL/Filters with AND, OR, and NOT.md#Logical operators
+4.Tools of Trade: Linux and SQL/SQL/Filters with AND, OR, and NOT.md#Logical operators#AND
+4.Tools of Trade: Linux and SQL/SQL/Filters with AND, OR, and NOT.md#Logical operators#NOT
+4.Tools of Trade: Linux and SQL/SQL/Filters with AND, OR, and NOT.md#Logical operators#OR
+4.Tools of Trade: Linux and SQL/SQL/Introducing Databases and SQL.md
+4.Tools of Trade: Linux and SQL/SQL/Introducing Databases and SQL.md#Database
+4.Tools of Trade: Linux and SQL/SQL/Introducing Databases and SQL.md#SQL
+4.Tools of Trade: Linux and SQL/SQL/Introducing Databases and SQL.md#SQL filtering versus Linux filtering
+4.Tools of Trade: Linux and SQL/SQL/Introducing Databases and SQL.md#SQL filtering versus Linux filtering#Accessing SQL
+4.Tools of Trade: Linux and SQL/SQL/Introducing Databases and SQL.md#SQL filtering versus Linux filtering#Differences between Linux and SQL filtering
+4.Tools of Trade: Linux and SQL/SQL/Introducing Databases and SQL.md#SQL filtering versus Linux filtering#Differences between Linux and SQL filtering#**Best uses**
+4.Tools of Trade: Linux and SQL/SQL/Introducing Databases and SQL.md#SQL filtering versus Linux filtering#Differences between Linux and SQL filtering#**Joining tables**
+4.Tools of Trade: Linux and SQL/SQL/Introducing Databases and SQL.md#SQL filtering versus Linux filtering#Differences between Linux and SQL filtering#**Structure**
+4.Tools of Trade: Linux and SQL/SQL/Query a database.md
+4.Tools of Trade: Linux and SQL/SQL/Query a database.md#Basic SQL query
+4.Tools of Trade: Linux and SQL/SQL/Query a database.md#Basic SQL query#**FROM**
+4.Tools of Trade: Linux and SQL/SQL/Query a database.md#Basic SQL query#**SELECT**
+4.Tools of Trade: Linux and SQL/SQL/Query a database.md#ORDER BY
+4.Tools of Trade: Linux and SQL/SQL/Query a database.md#ORDER BY#**Sorting based on multiple columns**
+4.Tools of Trade: Linux and SQL/SQL/Query a database.md#ORDER BY#**Sorting in ascending order**
+4.Tools of Trade: Linux and SQL/SQL/Query a database.md#ORDER BY#**Sorting in descending order**
+4.Tools of Trade: Linux and SQL/SQL/SQL Joins.md
+4.Tools of Trade: Linux and SQL/SQL/SQL Joins.md#Inner joins
+4.Tools of Trade: Linux and SQL/SQL/SQL Joins.md#Inner joins#The syntax of an inner join
+4.Tools of Trade: Linux and SQL/SQL/SQL Joins.md#Outer joins
+4.Tools of Trade: Linux and SQL/SQL/SQL Joins.md#Outer joins#Full outer joins
+4.Tools of Trade: Linux and SQL/SQL/SQL Joins.md#Outer joins#Left joins
+4.Tools of Trade: Linux and SQL/SQL/SQL Joins.md#Outer joins#Right joins
+5. Assets, Threats, and Vulnerabilities/Access controls and authentication systems.md
+5. Assets, Threats, and Vulnerabilities/Access controls and authentication systems.md#Authentication
+5. Assets, Threats, and Vulnerabilities/Access controls and authentication systems.md#Authentication#Characteristic
+5. Assets, Threats, and Vulnerabilities/Access controls and authentication systems.md#Authentication#Knowledge
+5. Assets, Threats, and Vulnerabilities/Access controls and authentication systems.md#Authentication#Ownership
+5. Assets, Threats, and Vulnerabilities/Accounting - Why we monitor access?.md
+5. Assets, Threats, and Vulnerabilities/Approach cybersecurity with an attacker mindset.md
+5. Assets, Threats, and Vulnerabilities/Approach cybersecurity with an attacker mindset.md#Being prepared for anything
+5. Assets, Threats, and Vulnerabilities/Approach cybersecurity with an attacker mindset.md#Finding innovative solutions
+5. Assets, Threats, and Vulnerabilities/Approach cybersecurity with an attacker mindset.md#Scanning for trouble
+5. Assets, Threats, and Vulnerabilities/Approach cybersecurity with an attacker mindset.md#Simulating threats
+5. Assets, Threats, and Vulnerabilities/Assets in a digital world.md
+5. Assets, Threats, and Vulnerabilities/Common classification requirements.md
+5. Assets, Threats, and Vulnerabilities/Common classification requirements.md#Challenges of classifying information
+5. Assets, Threats, and Vulnerabilities/Common classification requirements.md#Common asset classifications
+5. Assets, Threats, and Vulnerabilities/Common classification requirements.md#Why asset management matters
+5. Assets, Threats, and Vulnerabilities/Common vulnerabilities and exposures.md
+5. Assets, Threats, and Vulnerabilities/Common vulnerabilities and exposures.md#NIST National Vulnerabilities Database
+5. Assets, Threats, and Vulnerabilities/Common vulnerabilities and exposures.md#Purpose
+5. Assets, Threats, and Vulnerabilities/Defense in depth.md
+5. Assets, Threats, and Vulnerabilities/Defense in depth.md#1. Perimeter layer
+5. Assets, Threats, and Vulnerabilities/Defense in depth.md#2. Network layer
+5. Assets, Threats, and Vulnerabilities/Defense in depth.md#3. Endpoint layer
+5. Assets, Threats, and Vulnerabilities/Defense in depth.md#4. Application layer
+5. Assets, Threats, and Vulnerabilities/Defense in depth.md#5. Data layer
+5. Assets, Threats, and Vulnerabilities/Elements of a security plan.md
+5. Assets, Threats, and Vulnerabilities/Fortify against brute force cyber attacks.md
+5. Assets, Threats, and Vulnerabilities/Fortify against brute force cyber attacks.md#A matter of trial and error
+5. Assets, Threats, and Vulnerabilities/Fortify against brute force cyber attacks.md#Prevention measures
+5. Assets, Threats, and Vulnerabilities/Fortify against brute force cyber attacks.md#Prevention measures#**CAPTCHA**
+5. Assets, Threats, and Vulnerabilities/Fortify against brute force cyber attacks.md#Prevention measures#**Hashing and salting**
+5. Assets, Threats, and Vulnerabilities/Fortify against brute force cyber attacks.md#Prevention measures#**Multi-factor authentication (MFA)**
+5. Assets, Threats, and Vulnerabilities/Fortify against brute force cyber attacks.md#Prevention measures#**Password policy**
+5. Assets, Threats, and Vulnerabilities/Fortify against brute force cyber attacks.md#Tools of the trade
+5. Assets, Threats, and Vulnerabilities/Fundamentals of cryptography.md
+5. Assets, Threats, and Vulnerabilities/Identity and access management.md
+5. Assets, Threats, and Vulnerabilities/Identity and access management.md#Access control technologies
+5. Assets, Threats, and Vulnerabilities/Identity and access management.md#Authenticating users
+5. Assets, Threats, and Vulnerabilities/Identity and access management.md#Authenticating users#**Discretionary Access Control (DAC)**
+5. Assets, Threats, and Vulnerabilities/Identity and access management.md#Authenticating users#**Granting authorization**
+5. Assets, Threats, and Vulnerabilities/Identity and access management.md#Authenticating users#**Mandatory Access Control (MAC)**
+5. Assets, Threats, and Vulnerabilities/Identity and access management.md#Authenticating users#**Role-Based Access Control (RBAC)**
+5. Assets, Threats, and Vulnerabilities/Identity and access management.md#Authenticating users#**User provisioning**
+5. Assets, Threats, and Vulnerabilities/Identity and access management.md#Identity and access management (IAM)
+5. Assets, Threats, and Vulnerabilities/Information privacy - Regulations and compliance.md
+5. Assets, Threats, and Vulnerabilities/Information privacy - Regulations and compliance.md#Information security vs. information privacy
+5. Assets, Threats, and Vulnerabilities/Information privacy - Regulations and compliance.md#Notable privacy regulations
+5. Assets, Threats, and Vulnerabilities/Information privacy - Regulations and compliance.md#Notable privacy regulations#**GDPR**
+5. Assets, Threats, and Vulnerabilities/Information privacy - Regulations and compliance.md#Notable privacy regulations#**HIPAA**
+5. Assets, Threats, and Vulnerabilities/Information privacy - Regulations and compliance.md#Notable privacy regulations#**PCI DSS**
+5. Assets, Threats, and Vulnerabilities/Information privacy - Regulations and compliance.md#Security assessments and audits
+5. Assets, Threats, and Vulnerabilities/Information privacy - Regulations and compliance.md#Why privacy matters in security
+5. Assets, Threats, and Vulnerabilities/Malwares.md
+5. Assets, Threats, and Vulnerabilities/Malwares.md#Adware
+5. Assets, Threats, and Vulnerabilities/Malwares.md#Botnet
+5. Assets, Threats, and Vulnerabilities/Malwares.md#Cryptojacking
+5. Assets, Threats, and Vulnerabilities/Malwares.md#Fileless malware
+5. Assets, Threats, and Vulnerabilities/Malwares.md#Ransomware
+5. Assets, Threats, and Vulnerabilities/Malwares.md#Rootkits
+5. Assets, Threats, and Vulnerabilities/Malwares.md#Scareware
+5. Assets, Threats, and Vulnerabilities/Malwares.md#Spyware
+5. Assets, Threats, and Vulnerabilities/Malwares.md#Trojan
+5. Assets, Threats, and Vulnerabilities/Malwares.md#Virus
+5. Assets, Threats, and Vulnerabilities/Malwares.md#Worm
+5. Assets, Threats, and Vulnerabilities/Non-repudiation and hashing.md
+5. Assets, Threats, and Vulnerabilities/Non-repudiation and hashing.md#The evolution of hash functions
+5. Assets, Threats, and Vulnerabilities/Non-repudiation and hashing.md#The evolution of hash functions#Adding some “salt”
+5. Assets, Threats, and Vulnerabilities/Non-repudiation and hashing.md#The evolution of hash functions#Next-generation hashing
+5. Assets, Threats, and Vulnerabilities/Non-repudiation and hashing.md#The evolution of hash functions#Origins of hashing
+5. Assets, Threats, and Vulnerabilities/Non-repudiation and hashing.md#The evolution of hash functions#Origins of hashing#**Hash collisions**
+5. Assets, Threats, and Vulnerabilities/Non-repudiation and hashing.md#The evolution of hash functions#Secure password storage
+5. Assets, Threats, and Vulnerabilities/Non-repudiation and hashing.md#The evolution of hash functions#Secure password storage#**Rainbow tables**
+5. Assets, Threats, and Vulnerabilities/Open source intelligence(OSINT).md
+5. Assets, Threats, and Vulnerabilities/Open source intelligence(OSINT).md#Information vs intelligence
+5. Assets, Threats, and Vulnerabilities/Open source intelligence(OSINT).md#Intelligence improves decision-making
+5. Assets, Threats, and Vulnerabilities/Open source intelligence(OSINT).md#OSINT tools
+5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md
+5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md#1. Define business and security objectives.
+5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md#2. Define the technical scope
+5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md#3. Decompose the application
+5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md#4. Perform a threat analysis
+5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md#5. Vulnerability analysis
+5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md#6. Attack modeling
+5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md#7. Analyze risk and impact
+5. Assets, Threats, and Vulnerabilities/Patches and updates.md
+5. Assets, Threats, and Vulnerabilities/Patches and updates.md#Common update strategies
+5. Assets, Threats, and Vulnerabilities/Patches and updates.md#Common update strategies#**Automatic updates**
+5. Assets, Threats, and Vulnerabilities/Patches and updates.md#Common update strategies#**Manual updates**
+5. Assets, Threats, and Vulnerabilities/Patches and updates.md#End-of-life software
+5. Assets, Threats, and Vulnerabilities/Patches and updates.md#Patching gaps in security
+5. Assets, Threats, and Vulnerabilities/Pathways through defenses.md
+5. Assets, Threats, and Vulnerabilities/Penetration testing.md
+5. Assets, Threats, and Vulnerabilities/Penetration testing.md#Becoming a penetration tester
+5. Assets, Threats, and Vulnerabilities/Penetration testing.md#Becoming a penetration tester#**Bug bounty programs**
+5. Assets, Threats, and Vulnerabilities/Penetration testing.md#Learning from varied perspectives
+5. Assets, Threats, and Vulnerabilities/Penetration testing.md#Penetration testing
+5. Assets, Threats, and Vulnerabilities/Penetration testing.md#Penetration testing strategies
+5. Assets, Threats, and Vulnerabilities/Principle of least privilege.md
+5. Assets, Threats, and Vulnerabilities/Principle of least privilege.md#Auditing account privileges
+5. Assets, Threats, and Vulnerabilities/Principle of least privilege.md#Auditing account privileges#**Account change audits**
+5. Assets, Threats, and Vulnerabilities/Principle of least privilege.md#Auditing account privileges#**Privilege audits**
+5. Assets, Threats, and Vulnerabilities/Principle of least privilege.md#Auditing account privileges#**Usage audits**
+5. Assets, Threats, and Vulnerabilities/Principle of least privilege.md#Determining access and authorization
+5. Assets, Threats, and Vulnerabilities/Principle of least privilege.md#Limiting access reduces risk
+5. Assets, Threats, and Vulnerabilities/Protect all entry points.md
+5. Assets, Threats, and Vulnerabilities/Security controls.md
+5. Assets, Threats, and Vulnerabilities/Security guidelines in action.md
+5. Assets, Threats, and Vulnerabilities/Security guidelines in action.md#Components of the CSF
+5. Assets, Threats, and Vulnerabilities/Security guidelines in action.md#Components of the CSF#**Core**
+5. Assets, Threats, and Vulnerabilities/Security guidelines in action.md#Components of the CSF#**Profiles**
+5. Assets, Threats, and Vulnerabilities/Security guidelines in action.md#Components of the CSF#**Tiers**
+5. Assets, Threats, and Vulnerabilities/Security guidelines in action.md#Implementing the CSF
+5. Assets, Threats, and Vulnerabilities/Security guidelines in action.md#Industries embracing the CSF
+5. Assets, Threats, and Vulnerabilities/Security guidelines in action.md#Origins of the framework
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Encouraging caution
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Phishing
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Phishing#The origins of phishing
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Phishing#The origins of phishing#Early persuasion tactics
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Phishing#The origins of phishing#How phishing has evolved
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Phishing#The origins of phishing#Prevention tatics
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Phishing#The origins of phishing#Recent trends
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Phishing#Types of phishing
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Phishing#What are inside kists?
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Signs of an attack
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Stages of social engineering
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Stages of social engineering#Disconnect from the target
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Stages of social engineering#Establish trust
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Stages of social engineering#Persuasion
+5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md#Stages of social engineering#Prepare
+5. Assets, Threats, and Vulnerabilities/Symmetric and asymmetric encryption.md
+5. Assets, Threats, and Vulnerabilities/Symmetric and asymmetric encryption.md#Approved algorithms
+5. Assets, Threats, and Vulnerabilities/Symmetric and asymmetric encryption.md#Approved algorithms#**Asymmetric algorithms**
+5. Assets, Threats, and Vulnerabilities/Symmetric and asymmetric encryption.md#Approved algorithms#**Generating keys**
+5. Assets, Threats, and Vulnerabilities/Symmetric and asymmetric encryption.md#Approved algorithms#**Symmetric algorithms**
+5. Assets, Threats, and Vulnerabilities/Symmetric and asymmetric encryption.md#Obscurity is not security
+5. Assets, Threats, and Vulnerabilities/Symmetric and asymmetric encryption.md#Obscurity is not security#Encryption is everywhere
+5. Assets, Threats, and Vulnerabilities/Symmetric and asymmetric encryption.md#The importance of key length
+5. Assets, Threats, and Vulnerabilities/Symmetric and asymmetric encryption.md#Types of encryption
+5. Assets, Threats, and Vulnerabilities/The NIST Cybersecurity Framework.md
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#Common vulnerabilities
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#Common vulnerabilities#**Broken access control**
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#Common vulnerabilities#**Cryptographic failures**
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#Common vulnerabilities#**Identification and authentication failures**
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#Common vulnerabilities#**Injection**
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#Common vulnerabilities#**Insecure design**
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#Common vulnerabilities#**Security logging and monitoring failures**
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#Common vulnerabilities#**Security misconfiguration**
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#Common vulnerabilities#**Server-side request forgery**
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#Common vulnerabilities#**Software and data integrity failures**
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#Common vulnerabilities#**Vulnerable and outdated components**
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#The OWASP Top 10
+5. Assets, Threats, and Vulnerabilities/The OWASP Top 10.md#What is OWASP?
+5. Assets, Threats, and Vulnerabilities/The data lifecycle.md
+5. Assets, Threats, and Vulnerabilities/The data lifecycle.md#Data governance
+5. Assets, Threats, and Vulnerabilities/The data lifecycle.md#Legally protected information
+5. Assets, Threats, and Vulnerabilities/The data lifecycle.md#Protecting data at every stage
+5. Assets, Threats, and Vulnerabilities/The data lifecycle.md#The data lifecycle
+5. Assets, Threats, and Vulnerabilities/The emergence of cloud security.md
+5. Assets, Threats, and Vulnerabilities/The emergence of cloud security.md#Cloud security
+5. Assets, Threats, and Vulnerabilities/The emergence of cloud security.md#Cloud security challenges
+5. Assets, Threats, and Vulnerabilities/The emergence of cloud security.md#Cloud-based services
+5. Assets, Threats, and Vulnerabilities/The emergence of cloud security.md#Cloud-based services#**Infrastructure as a service (IaaS)**
+5. Assets, Threats, and Vulnerabilities/The emergence of cloud security.md#Cloud-based services#**Platform as a service (PaaS)**
+5. Assets, Threats, and Vulnerabilities/The emergence of cloud security.md#Cloud-based services#**Software as a service (SaaS)**
+5. Assets, Threats, and Vulnerabilities/The emergence of cloud security.md#Soaring into the cloud
+5. Assets, Threats, and Vulnerabilities/The mechanisms of authorization.md
+5. Assets, Threats, and Vulnerabilities/The mechanisms of authorization.md#HTTP basic auth
+5. Assets, Threats, and Vulnerabilities/The mechanisms of authorization.md#OAuth
+5. Assets, Threats, and Vulnerabilities/The rise of SSO and MFA.md
+5. Assets, Threats, and Vulnerabilities/The rise of SSO and MFA.md#A better approach to authentication
+5. Assets, Threats, and Vulnerabilities/The rise of SSO and MFA.md#How SSO works
+5. Assets, Threats, and Vulnerabilities/The rise of SSO and MFA.md#Limitations of SSO
+5. Assets, Threats, and Vulnerabilities/The rise of SSO and MFA.md#MFA to the rescue
+5. Assets, Threats, and Vulnerabilities/The rise of SSO and MFA.md#Strengthening authentication
+5. Assets, Threats, and Vulnerabilities/Threat modeling - A proactive approach to security.md
+5. Assets, Threats, and Vulnerabilities/Threat modeling - A proactive approach to security.md#1. Define the scope of the model
+5. Assets, Threats, and Vulnerabilities/Threat modeling - A proactive approach to security.md#2. Identify threats
+5. Assets, Threats, and Vulnerabilities/Threat modeling - A proactive approach to security.md#3. Characterize the environment
+5. Assets, Threats, and Vulnerabilities/Threat modeling - A proactive approach to security.md#4. Analyze threats
+5. Assets, Threats, and Vulnerabilities/Threat modeling - A proactive approach to security.md#5. Mitigate risk
+5. Assets, Threats, and Vulnerabilities/Threat modeling - A proactive approach to security.md#6. Evaluate findings
+5. Assets, Threats, and Vulnerabilities/Traits of an effective threat model.md
+5. Assets, Threats, and Vulnerabilities/Traits of an effective threat model.md#Common frameworks
+5. Assets, Threats, and Vulnerabilities/Traits of an effective threat model.md#Common frameworks#**PASTA**
+5. Assets, Threats, and Vulnerabilities/Traits of an effective threat model.md#Common frameworks#**STRIDE**
+5. Assets, Threats, and Vulnerabilities/Traits of an effective threat model.md#Common frameworks#**Trike**
+5. Assets, Threats, and Vulnerabilities/Traits of an effective threat model.md#Common frameworks#**VAST**
+5. Assets, Threats, and Vulnerabilities/Traits of an effective threat model.md#Defending the application layer
+5. Assets, Threats, and Vulnerabilities/Traits of an effective threat model.md#Participating in threat modeling
+5. Assets, Threats, and Vulnerabilities/Traits of an effective threat model.md#Why application security matters
+5. Assets, Threats, and Vulnerabilities/Types of threat actors.md
+5. Assets, Threats, and Vulnerabilities/Types of threat actors.md#Access points
+5. Assets, Threats, and Vulnerabilities/Types of threat actors.md#Advanced persistent threats
+5. Assets, Threats, and Vulnerabilities/Types of threat actors.md#Threat actors
+5. Assets, Threats, and Vulnerabilities/Types of threat actors.md#Threat actors#**Types of hackers**
+5. Assets, Threats, and Vulnerabilities/Understand risks, threats, and vulnerabilities.md
+5. Assets, Threats, and Vulnerabilities/Understand risks, threats, and vulnerabilities.md#Risk factors
+5. Assets, Threats, and Vulnerabilities/Understand risks, threats, and vulnerabilities.md#Risk factors#**Categories of threat**
+5. Assets, Threats, and Vulnerabilities/Understand risks, threats, and vulnerabilities.md#Risk factors#**Categories of vulnerability**
+5. Assets, Threats, and Vulnerabilities/Understand risks, threats, and vulnerabilities.md#Security risk
+5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md
+5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md#1. **Identification**
+5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md#2. **Vulnerability Analysis**
+5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md#3. **Risk Assessment**
+5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md#4. **Remediation**
+5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md#Approaches to vulnerability scanning
+5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md#Approaches to vulnerability scanning#Performing scans
+5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md#Approaches to vulnerability scanning#Performing scans#**Authenticated vs. unauthenticated**
+5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md#Approaches to vulnerability scanning#Performing scans#**Limited vs. comprehensive**
+5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md#Approaches to vulnerability scanning#What is a vulnerability scanner?
+5. Assets, Threats, and Vulnerabilities/Vulnerability assessments.md#The goal
+5. Assets, Threats, and Vulnerabilities/Vulnerability management.md
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md#Prevent injection attacks
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md#Prevent injection attacks#**In-band SQL injection**
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md#Prevent injection attacks#**Inferential SQL injection**
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md#Prevent injection attacks#**Out-of-band SQL injection**
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md#Prevent injection attacks#Injection Prevention
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md#Prevent injection attacks#SQL injection categories
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md#Prevent injection attacks#SQL queries
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md#Types of injection attacks#Cross site scripting
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md#Types of injection attacks#Cross site scripting#1. Reflected
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md#Types of injection attacks#Cross site scripting#2. Stored
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md#Types of injection attacks#Cross site scripting#3. DOM-based
+5. Assets, Threats, and Vulnerabilities/Web-based exploits.md#Types of injection attacks#SQL injection
+6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md
+6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md#SIEM
+6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md#SIEM advantages
+6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md#SIEM tools
+6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md#SIEM tools#Process TL;DR
+6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md#SOAR
+6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md#The SIEM process
+6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md#The SIEM process#**Analyze data**
+6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md#The SIEM process#**Collect and aggregate data**
+6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md#The SIEM process#**Normalize data**
+6. Sound the Alarm -Detection and Response/Analyzing indicators of compromise with investigative tools.md
+6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md
+6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md#Best practices
+6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md#Best practices#**Be concise**
+6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md#Best practices#**Know our audience**
+6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md#Best practices#**Update regularly**
+6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md#Best practices#Chain of Custody
+6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md#Best practices#Chain of Custody#What happens if evidence gets logged incorrectly? Or, if there's a missing entry?
+6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md#Documentation benefits
+6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md#Documentation benefits#**Clarity**
+6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md#Documentation benefits#**Standardization**
+6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md#Documentation benefits#**Transparency**
+6. Sound the Alarm -Detection and Response/Business continuity considerations.md
+6. Sound the Alarm -Detection and Response/Business continuity considerations.md#Business continuity planning
+6. Sound the Alarm -Detection and Response/Business continuity considerations.md#Business continuity planning#**Consider the impacts of ransomware to business continuity**
+6. Sound the Alarm -Detection and Response/Business continuity considerations.md#Business continuity planning#**Recovery strategies**
+6. Sound the Alarm -Detection and Response/Business continuity considerations.md#Business continuity planning#**Site resilience**
+6. Sound the Alarm -Detection and Response/Components of a detection signature.md
+6. Sound the Alarm -Detection and Response/Components of a detection signature.md#1. An action
+6. Sound the Alarm -Detection and Response/Components of a detection signature.md#2. A header
+6. Sound the Alarm -Detection and Response/Components of a detection signature.md#3. Rule options
+6. Sound the Alarm -Detection and Response/Containment, Eradication, Recovery.md
+6. Sound the Alarm -Detection and Response/Containment, Eradication, Recovery.md#Containment:
+6. Sound the Alarm -Detection and Response/Containment, Eradication, Recovery.md#Eradication:
+6. Sound the Alarm -Detection and Response/Containment, Eradication, Recovery.md#Recovery:
+6. Sound the Alarm -Detection and Response/Data exfiltration attacks.md
+6. Sound the Alarm -Detection and Response/Data exfiltration attacks.md#Attackers perspective
+6. Sound the Alarm -Detection and Response/Data exfiltration attacks.md#Defend against this type of attack.
+6. Sound the Alarm -Detection and Response/Detection and analysis phase.md
+6. Sound the Alarm -Detection and Response/Documentation.md
+6. Sound the Alarm -Detection and Response/Incident response plans.md
+6. Sound the Alarm -Detection and Response/Incident response plans.md#1. Incident response procedures
+6. Sound the Alarm -Detection and Response/Incident response plans.md#2. System information
+6. Sound the Alarm -Detection and Response/Incident response plans.md#Incident response tools
+6. Sound the Alarm -Detection and Response/Incident response teams.md
+6. Sound the Alarm -Detection and Response/Incident response teams.md#Command, control, and communication
+6. Sound the Alarm -Detection and Response/Incident response teams.md#How exactly does a CSIRT function?
+6. Sound the Alarm -Detection and Response/Incident response teams.md#Roles in CSIRTs
+6. Sound the Alarm -Detection and Response/Incident response teams.md#Roles in CSIRTs#**Incident coordinator**
+6. Sound the Alarm -Detection and Response/Incident response teams.md#Roles in CSIRTs#**Other roles**
+6. Sound the Alarm -Detection and Response/Incident response teams.md#Roles in CSIRTs#**Security analyst**
+6. Sound the Alarm -Detection and Response/Incident response teams.md#Roles in CSIRTs#**Technical lead**
+6. Sound the Alarm -Detection and Response/Incident response teams.md#Roles in response
+6. Sound the Alarm -Detection and Response/Incident response teams.md#SOC organization
+6. Sound the Alarm -Detection and Response/Incident response teams.md#SOC organization#**Other roles**
+6. Sound the Alarm -Detection and Response/Incident response teams.md#SOC organization#**SOC manager**
+6. Sound the Alarm -Detection and Response/Incident response teams.md#SOC organization#**Tier 1 SOC analyst**
+6. Sound the Alarm -Detection and Response/Incident response teams.md#SOC organization#**Tier 2 SOC analyst**
+6. Sound the Alarm -Detection and Response/Incident response teams.md#SOC organization#**Tier 3 SOC lead**
+6. Sound the Alarm -Detection and Response/Incident response teams.md#Security operations center
+6. Sound the Alarm -Detection and Response/Indicators of compromise.md
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md#Reexamine the fields of a packet header
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md#Reexamine the fields of a packet header#Data
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md#Reexamine the fields of a packet header#Header Checksum
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md#Reexamine the fields of a packet header#IHL
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md#Reexamine the fields of a packet header#Identification, Flags,and Fragment Offset
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md#Reexamine the fields of a packet header#Options
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md#Reexamine the fields of a packet header#Protocol
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md#Reexamine the fields of a packet header#Source and Destination Address
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md#Reexamine the fields of a packet header#TOS
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md#Reexamine the fields of a packet header#TTL
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md#Reexamine the fields of a packet header#Total Length
+6. Sound the Alarm -Detection and Response/Interpreting network communications with packets.md#Reexamine the fields of a packet header#Version
+6. Sound the Alarm -Detection and Response/Introduction to the incident response lifecycle.md
+6. Sound the Alarm -Detection and Response/Introduction to the incident response lifecycle.md#What is an incident?
+6. Sound the Alarm -Detection and Response/Introduction to the incident response lifecycle.md#What is an incident?#1. Preparation: the planning and training process
+6. Sound the Alarm -Detection and Response/Introduction to the incident response lifecycle.md#What is an incident?#2. Detection and analysis: the detect and assess process
+6. Sound the Alarm -Detection and Response/Introduction to the incident response lifecycle.md#What is an incident?#3. Containment, eradication, and recovery: the minimize and mitigate process
+6. Sound the Alarm -Detection and Response/Introduction to the incident response lifecycle.md#What is an incident?#4. Post-incident activity: the learning process
+6. Sound the Alarm -Detection and Response/Intrusion detection and prevention tools.md
+6. Sound the Alarm -Detection and Response/Intrusion detection and prevention tools.md#Detection tools
+6. Sound the Alarm -Detection and Response/Intrusion detection and prevention tools.md#Overview of EDR tools
+6. Sound the Alarm -Detection and Response/Intrusion detection and prevention tools.md#Overview of IDS tools
+6. Sound the Alarm -Detection and Response/Intrusion detection and prevention tools.md#Overview of IDS tools#**Detection categories**
+6. Sound the Alarm -Detection and Response/Intrusion detection and prevention tools.md#Overview of IPS tools
+6. Sound the Alarm -Detection and Response/Intrusion detection and prevention tools.md#Why we need detection tools
+6. Sound the Alarm -Detection and Response/Investigate packet details.md
+6. Sound the Alarm -Detection and Response/Logs.md
+6. Sound the Alarm -Detection and Response/Logs.md#Best practices for log collection and management
+6. Sound the Alarm -Detection and Response/Logs.md#Log analysis
+6. Sound the Alarm -Detection and Response/Logs.md#Log management
+6. Sound the Alarm -Detection and Response/Logs.md#Log management#**Log protection**
+6. Sound the Alarm -Detection and Response/Logs.md#Log management#**Log retention**
+6. Sound the Alarm -Detection and Response/Logs.md#Log management#**The issue with overlogging**
+6. Sound the Alarm -Detection and Response/Logs.md#Log management#**What to log**
+6. Sound the Alarm -Detection and Response/Logs.md#Logs
+6. Sound the Alarm -Detection and Response/Logs.md#Logs#**Log details**
+6. Sound the Alarm -Detection and Response/Logs.md#Logs#**Types of logs**
+6. Sound the Alarm -Detection and Response/Logs.md#SIEM
+6. Sound the Alarm -Detection and Response/Logs.md#SIEM#So how do logs get collected?
+6. Sound the Alarm -Detection and Response/Packets and packet captures.md
+6. Sound the Alarm -Detection and Response/Packets and packet captures.md#How to record network traffic through packet captures
+6. Sound the Alarm -Detection and Response/Packets and packet captures.md#More about packet captures
+6. Sound the Alarm -Detection and Response/Packets and packet captures.md#More about packet captures#Interpret network communications with packets
+6. Sound the Alarm -Detection and Response/Packets and packet captures.md#More about packet captures#Network protocol analyzers
+6. Sound the Alarm -Detection and Response/Packets and packet captures.md#More about packet captures#Network protocol analyzers#Capturing packets
+6. Sound the Alarm -Detection and Response/Packets and packet captures.md#More about packet captures#Network protocol analyzers#How network protocol analyzers work
+6. Sound the Alarm -Detection and Response/Packets and packet captures.md#More about packet captures#Packets
+6. Sound the Alarm -Detection and Response/Packets and packet captures.md#More about packet captures#Packets#Footer
+6. Sound the Alarm -Detection and Response/Packets and packet captures.md#More about packet captures#Packets#Header
+6. Sound the Alarm -Detection and Response/Packets and packet captures.md#More about packet captures#Packets#Payload
+6. Sound the Alarm -Detection and Response/Post-incident activity.md
+6. Sound the Alarm -Detection and Response/Post-incident activity.md#Final report
+6. Sound the Alarm -Detection and Response/Post-incident activity.md#Lessons learned
+6. Sound the Alarm -Detection and Response/Post-incident activity.md#Lessons learned#**Recommendations**
+6. Sound the Alarm -Detection and Response/SIEM.md
+6. Sound the Alarm -Detection and Response/SIEM.md#Log ingestion
+6. Sound the Alarm -Detection and Response/SIEM.md#Log ingestion#**Pipes**
+6. Sound the Alarm -Detection and Response/SIEM.md#Log ingestion#**Wildcard**
+6. Sound the Alarm -Detection and Response/SIEM.md#Log ingestion#1. Splunk
+6. Sound the Alarm -Detection and Response/SIEM.md#Log ingestion#1. Splunk#Query for events with Splunk
+6. Sound the Alarm -Detection and Response/SIEM.md#Log ingestion#1. Splunk#Query for events with Splunk#More search terms
+6. Sound the Alarm -Detection and Response/SIEM.md#Log ingestion#Log forwarders
+6. Sound the Alarm -Detection and Response/SIEM.md#Log ingestion#Log forwarders#Query for events in different SIEMs
+6. Sound the Alarm -Detection and Response/SIEM.md#Log sources and log ingestion
+6. Sound the Alarm -Detection and Response/SIEM.md#Process of collection of data in a SIEM
+6. Sound the Alarm -Detection and Response/Security monitoring with detection tools.md
+6. Sound the Alarm -Detection and Response/Suricata.md
+6. Sound the Alarm -Detection and Response/The importance of network traffic flows.md
+6. Sound the Alarm -Detection and Response/The importance of network traffic flows.md#Maintain awareness with network monitoring
+6. Sound the Alarm -Detection and Response/The importance of network traffic flows.md#Maintain awareness with network monitoring#Know your network
+6. Sound the Alarm -Detection and Response/The importance of network traffic flows.md#Maintain awareness with network monitoring#Monitor your network
+6. Sound the Alarm -Detection and Response/The importance of network traffic flows.md#Maintain awareness with network monitoring#Monitor your network#**Flow analysis**
+6. Sound the Alarm -Detection and Response/The importance of network traffic flows.md#Maintain awareness with network monitoring#Monitor your network#**Packet payload information**
+6. Sound the Alarm -Detection and Response/The importance of network traffic flows.md#Maintain awareness with network monitoring#Monitor your network#**Temporal patterns**
+6. Sound the Alarm -Detection and Response/The importance of network traffic flows.md#Maintain awareness with network monitoring#Protect your network
+6. Sound the Alarm -Detection and Response/The importance of network traffic flows.md#Maintain awareness with network monitoring#Protect your network#**Network monitoring tools**
+6. Sound the Alarm -Detection and Response/The importance of network traffic flows.md#So what is network traffic?
+6. Sound the Alarm -Detection and Response/Triage.md
+6. Sound the Alarm -Detection and Response/Triage.md#**Assign priority**
+6. Sound the Alarm -Detection and Response/Triage.md#**Collect and analyze**
+6. Sound the Alarm -Detection and Response/Triage.md#**Receive and assess**
+6. Sound the Alarm -Detection and Response/Triage.md#Benefits of triage
+6. Sound the Alarm -Detection and Response/Variation of Logs.md
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#CEF (Common Event Format)
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#CSV (Comma Separated Value)
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#JavaScript Object Notation (JSON)
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#JavaScript Object Notation (JSON)#Commas
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#JavaScript Object Notation (JSON)#Curly brackets
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#JavaScript Object Notation (JSON)#Double quotes
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#JavaScript Object Notation (JSON)#Key-value pairs
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#JavaScript Object Notation (JSON)#Square brackets
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#Syslog
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#Syslog#Syslog log example
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#Syslog#Syslog log example#Header
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#Syslog#Syslog log example#Message
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#Syslog#Syslog log example#Priority (PRI)
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#Syslog#Syslog log example#Structured-data
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#XML (eXtensible Markup Language)
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#XML (eXtensible Markup Language)#Attributes
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#XML (eXtensible Markup Language)#Elements
+6. Sound the Alarm -Detection and Response/Variation of Logs.md#XML (eXtensible Markup Language)#Tags
+6. Sound the Alarm -Detection and Response/tcpdump.md
+6. Sound the Alarm -Detection and Response/tcpdump.md#Capturing packets with tcpdump
+6. Sound the Alarm -Detection and Response/tcpdump.md#Expressions
+6. Sound the Alarm -Detection and Response/tcpdump.md#Expressions#sudo tcpdump -r packetcapture.pcap -n 'ip and port 80'
+6. Sound the Alarm -Detection and Response/tcpdump.md#Interpreting output
+6. Sound the Alarm -Detection and Response/tcpdump.md#Interpreting output#sudo tcpdump -i any -v -c 1
+6. Sound the Alarm -Detection and Response/tcpdump.md#Options
+6. Sound the Alarm -Detection and Response/tcpdump.md#Options#**-c**
+6. Sound the Alarm -Detection and Response/tcpdump.md#Options#**-n**
+6. Sound the Alarm -Detection and Response/tcpdump.md#Options#**-n**#sudo tcpdump -r packetcapture.pcap -v -n
+6. Sound the Alarm -Detection and Response/tcpdump.md#Options#**-r**
+6. Sound the Alarm -Detection and Response/tcpdump.md#Options#**-v**
+6. Sound the Alarm -Detection and Response/tcpdump.md#Options#**-w**
+6. Sound the Alarm -Detection and Response/tcpdump.md#What is tcpdump?
+Activities/SQL/Activity 1.md
+Activities/SQL/Activity 1.md#Task 1. Retrieve employee device data
+Activities/SQL/Activity 1.md#Task 2. Investigate login activity
+Activities/SQL/Activity 1.md#Task 3. Order login attempts data
+Activities/SQL/Activity 2.md
+Activities/SQL/Activity 2.md#Task 1. List all organization machines
+Activities/SQL/Activity 2.md#Task 2. Retrieve a list of the machines with OS 2
+Activities/SQL/Activity 2.md#Task 3. List employees in specific departments
+Activities/SQL/Activity 2.md#Task 4. Identify employee machines
+Activities/SQL/Activity 3.md
+Activities/SQL/Activity 3.md#Task 1. Retrieve login attempts after a certain date
+Activities/SQL/Activity 3.md#Task 2. Retrieve logins in a date range
+Activities/SQL/Activity 3.md#Task 3. Investigate logins at certain times
+Activities/SQL/Activity 3.md#Task 4. Investigate logins by event ID
+Activities/SQL/Activity 4.md
+Activities/SQL/Activity 4.md#Task 1. Retrieve after hours failed login attempts
+Activities/SQL/Activity 4.md#Task 2. Retrieve login attempts on specific dates
+Activities/SQL/Activity 4.md#Task 3. Retrieve login attempts outside of Mexico
+Activities/SQL/Activity 4.md#Task 4. Retrieve employees in Marketing
+Activities/SQL/Activity 4.md#Task 5. Retrieve employees in Finance or Sales
+Activities/SQL/Activity 4.md#Task 6. Retrieve all employees not in IT
+Activities/SQL/Activity 5.md
+Activities/SQL/Activity 5.md#Task 1. Match employees to their machines
+Activities/SQL/Activity 5.md#Task 2. Return more data
+Activities/SQL/Activity 5.md#Task 3. Retrieve login attempt data
+Business continuity considerations.md
+Detection and analysis phase.md
+Detection and analysis phase.md#Cybersecurity incident detection methods
+Detection and analysis phase.md#Cybersecurity incident detection methods#**Cyber deception**
+Detection and analysis phase.md#Cybersecurity incident detection methods#**Threat hunting**
+Detection and analysis phase.md#Cybersecurity incident detection methods#**Threat intelligence**
+Detection and analysis phase.md#Cybersecurity incident detection methods#Methods of detection
+Glossary/Attack types.md
+Glossary/Attack types.md#**Adversarial artificial intelligence**
+Glossary/Attack types.md#**Cryptographic attack**
+Glossary/Attack types.md#**Password attack**
+Glossary/Attack types.md#**Physical attack**
+Glossary/Attack types.md#**Social engineering attack**
+Glossary/Attack types.md#**Supply-chain attack**
+Glossary/Threat actor types.md
+Glossary/Threat actor types.md#**Advanced persistent threats**
+Glossary/Threat actor types.md#**Hacktivists**
+Glossary/Threat actor types.md#**Insider threats**
+Glossary/Threat actor types.md#Hacker types
+Glossary/Week 1.md
+Glossary/Week 10.md
+Glossary/Week 11.md
+Glossary/Week 12.md
+Glossary/Week 13.md
+Glossary/Week 14.md
+Glossary/Week 15.md
+Glossary/Week 16.md
+Glossary/Week 17.md
+Glossary/Week 18.md
+Glossary/Week 19.md
+Glossary/Week 2.md
+Glossary/Week 20.md
+Glossary/Week 21.md
+Glossary/Week 22.md
+Glossary/Week 23.md
+Glossary/Week 24.md
+Glossary/Week 3.md
+Glossary/Week 4.md
+Glossary/Week 5.md
+Glossary/Week 6.md
+Glossary/Week 7.md
+Glossary/Week 8.md
+Glossary/Week 9.md
+README.md
+SIEM.md
+SIEM.md#Log ingestion
+SIEM.md#Log ingestion#**Pipes**
+SIEM.md#Log ingestion#**Raw Log Search**
+SIEM.md#Log ingestion#**Unified Data Model (UDM) Search**
+SIEM.md#Log ingestion#**Wildcard**
+SIEM.md#Log ingestion#1. Splunk
+SIEM.md#Log ingestion#1. Splunk#Query for events with Splunk
+SIEM.md#Log ingestion#1. Splunk#Query for events with Splunk#More search terms
+SIEM.md#Log ingestion#2. Chronicle
+SIEM.md#Log ingestion#2. Chronicle#Query for events with Chronicle
+SIEM.md#Log ingestion#2. Chronicle#Query for events with Chronicle#More search terms in chronicle
+SIEM.md#Log ingestion#Log forwarders
+SIEM.md#Log ingestion#Log forwarders#Query for events in different SIEMs
+SIEM.md#Log sources and log ingestion
+SIEM.md#Process of collection of data in a SIEM
+SIEM.md#Resources
+Security monitoring with detection tools.md
+Security monitoring with detection tools.md#Anomaly-based analysis
+Security monitoring with detection tools.md#Anomaly-based analysis#**Advantages**
+Security monitoring with detection tools.md#Anomaly-based analysis#**Disadvantages**
+Security monitoring with detection tools.md#Detection techniques
+Security monitoring with detection tools.md#Detection tools and techniques
+Security monitoring with detection tools.md#Host-based intrusion detection system
+Security monitoring with detection tools.md#Network-based intrusion detection system
+Security monitoring with detection tools.md#Signature-based analysis
+Security monitoring with detection tools.md#Signature-based analysis#**Advantages**
+Security monitoring with detection tools.md#Signature-based analysis#**Disadvantages**
+Untitled.md
+imges/HIDS.png.md

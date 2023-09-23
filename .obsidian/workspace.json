@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2b0cdf3f4c93caca",
+        "id": "f394cf83cdb9e683",
         "type": "tabs",
         "children": [
           {
-            "id": "c5af60d97fe9a088",
+            "id": "e50fe0e1c048338f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Packets and packet captures.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Packets and packet captures.md",
+                "file": "6. Sound the Alarm -Detection and Response/SIEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Packets and packet captures.md",
+                "file": "6. Sound the Alarm -Detection and Response/SIEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +121,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Packets and packet captures.md"
+                "file": "6. Sound the Alarm -Detection and Response/SIEM.md"
               }
+            }
+          },
+          {
+            "id": "55e2bc6acdafb7d2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "bb724040eed474e5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "999aa137eab79f51",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
             }
           }
         ]
@@ -143,38 +165,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "c5af60d97fe9a088",
+  "active": "9d20c91eb3875700",
   "lastOpenFiles": [
-    "Packets and packet captures.md",
-    "6. Sound the Alarm -Detection and Response/The importance of network traffic flows.md",
-    "6. Sound the Alarm -Detection and Response/Intrusion detection and prevention tools.md",
-    "Data exfiltration attacks.md",
-    "6. Sound the Alarm -Detection and Response/Alert and event management with SIEM and SOAR tools.md",
-    "6. Sound the Alarm -Detection and Response/Introduction to the incident response lifecycle.md",
-    "6. Sound the Alarm -Detection and Response/Incident response teams.md",
-    "Glossary/Week 21.md",
+    "7. Automate Cybersecurity Tasks with Python",
+    "Glossary/Course 6 glossary.pdf",
+    "6. Sound the Alarm -Detection and Response/Suricata.md",
+    "6. Sound the Alarm -Detection and Response/SIEM.md",
+    "Glossary/Week 24.md",
+    "images/asset&timeline.png",
+    "images/chronicleudm.png",
+    "images/chronicleui.png",
+    "images/chronicles.png",
+    "Pasted image 20230923100236.png",
+    "images/splunkchngedwww.png",
+    "images/chroniclequery.mp4",
+    "images/splunkremovewww1.png",
+    "images/splunkquery2.png",
+    "images/splunkquery.png",
+    "images/loginjestion.png",
+    "6. Sound the Alarm -Detection and Response/Components of a detection signature.md",
+    "images/HIDS.png.md",
+    "6. Sound the Alarm -Detection and Response/Security monitoring with detection tools.md",
+    "imges",
+    "6. Sound the Alarm -Detection and Response/Logs.md",
+    "6. Sound the Alarm -Detection and Response/Variation of Logs.md",
+    "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/7. Security operations.md",
+    "Activities/Incident Handling/Final report.pdf",
+    "6. Sound the Alarm -Detection and Response/Post-incident activity.md",
+    "Glossary/Week 23.md",
+    "6. Sound the Alarm -Detection and Response/Business continuity considerations.md",
+    "6. Sound the Alarm -Detection and Response/Containment, Eradication, Recovery.md",
+    "6. Sound the Alarm -Detection and Response/Triage.md",
+    "5. Assets, Threats, and Vulnerabilities/Types of threat actors.md",
+    "Activities/Incident Handling/Phishing incident response playbook.pdf",
+    "Activities/Incident Handling/Alert ticket.pdf",
+    "1. Foundations of Cybersecurity/Tools for protecting business operations.md",
+    "images",
     "6. Sound the Alarm -Detection and Response/Documentation.md",
-    "6. Sound the Alarm -Detection and Response/Incident response plans.md",
+    "6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md",
+    "6. Sound the Alarm -Detection and Response/Analyzing indicators of compromise with investigative tools.md",
+    "Activities/Incident Handling/Pyramid of Pain.pdf",
     "Activities/Incident Handling/Incident handler's journal .pdf",
-    "Activities/Incident Handling/Unconfirmed 949258.crdownload",
-    "Activities/Incident Handling",
-    "Certificates/5.pdf",
-    "6. Sound the Alarm -Detection and Response",
-    "5. Assets, Threats, and Vulnerabilities/PASTA - The Process for Attack Simulation and Threat Analysis.md",
-    "Glossary/Course 4 glossary.pdf",
-    "Glossary/Course 5 glossary.pdf",
-    "5. Assets, Threats, and Vulnerabilities/Web-based exploits.md",
-    "5. Assets, Threats, and Vulnerabilities/Traits of an effective threat model.md",
-    "5. Assets, Threats, and Vulnerabilities/Social engineering - The criminal art of persuasion.md",
-    "Glossary/Week 20.md",
-    "5. Assets, Threats, and Vulnerabilities/Threat modeling - A proactive approach to security.md",
-    "Activities/Threat Modeling/PASTA worksheet.pdf",
-    "Activities/Threat Modeling/PASTA data flow diagram.pdf",
-    "Activities/Threat Modeling/PASTA attack tree.pdf",
-    "5. Assets, Threats, and Vulnerabilities/Fundamentals of cryptography.md",
-    "5. Assets, Threats, and Vulnerabilities/Images/Pasted image 20230729090949.png"
+    "6. Sound the Alarm -Detection and Response/Indicators of compromise.md",
+    "6. Sound the Alarm -Detection and Response/Detection and analysis phase.md",
+    "Glossary/Week 22.md",
+    "Glossary/Week 21.md",
+    "6. Sound the Alarm -Detection and Response/tcpdump.md",
+    "Activities/Tcpdump/tcpdump vs wireshark.pdf",
+    "6. Sound the Alarm -Detection and Response/Investigate packet details.md"
   ]
 }
