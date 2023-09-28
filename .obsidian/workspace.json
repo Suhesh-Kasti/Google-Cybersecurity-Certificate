@@ -8,14 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e50fe0e1c048338f",
+            "id": "70798fcd0c45936c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7. Automate Cybersecurity Tasks with Python/Regular expression in python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "072ed39cdeee6c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Week 28.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Sound the Alarm -Detection and Response/SIEM.md",
+                "file": "Glossary/Week 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Sound the Alarm -Detection and Response/SIEM.md",
+                "file": "Glossary/Week 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Sound the Alarm -Detection and Response/SIEM.md"
+                "file": "Glossary/Week 28.md"
               }
             }
           },
@@ -136,7 +153,7 @@
             }
           },
           {
-            "id": "bb724040eed474e5",
+            "id": "64f476c3125509ce",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -144,7 +161,7 @@
             }
           },
           {
-            "id": "999aa137eab79f51",
+            "id": "97e2ff1f633b5d13",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -171,10 +188,21 @@
   },
   "active": "9d20c91eb3875700",
   "lastOpenFiles": [
+    "Glossary/Course 7 glossary.pdf",
+    "7. Automate Cybersecurity Tasks with Python/Reference Guide Python concepts from Course 7.pdf",
+    "7. Automate Cybersecurity Tasks with Python/Regular expression in python.md",
+    "Glossary/Week 28.md",
+    "7. Automate Cybersecurity Tasks with Python/Python concepts from module 3.pdf",
+    "Glossary/Week 27.md",
+    "6. Sound the Alarm -Detection and Response/SIEM.md",
+    "7. Automate Cybersecurity Tasks with Python/Python concepts from module 2.pdf",
+    "Glossary/Week 26.md",
+    "6. Sound the Alarm -Detection and Response/Detection and analysis phase.md",
+    "Glossary/Week 25.md",
+    "7. Automate Cybersecurity Tasks with Python/Python concepts from module 1.pdf",
     "7. Automate Cybersecurity Tasks with Python",
     "Glossary/Course 6 glossary.pdf",
     "6. Sound the Alarm -Detection and Response/Suricata.md",
-    "6. Sound the Alarm -Detection and Response/SIEM.md",
     "Glossary/Week 24.md",
     "images/asset&timeline.png",
     "images/chronicleudm.png",
@@ -202,20 +230,9 @@
     "6. Sound the Alarm -Detection and Response/Triage.md",
     "5. Assets, Threats, and Vulnerabilities/Types of threat actors.md",
     "Activities/Incident Handling/Phishing incident response playbook.pdf",
-    "Activities/Incident Handling/Alert ticket.pdf",
     "1. Foundations of Cybersecurity/Tools for protecting business operations.md",
-    "images",
     "6. Sound the Alarm -Detection and Response/Documentation.md",
     "6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md",
-    "6. Sound the Alarm -Detection and Response/Analyzing indicators of compromise with investigative tools.md",
-    "Activities/Incident Handling/Pyramid of Pain.pdf",
-    "Activities/Incident Handling/Incident handler's journal .pdf",
-    "6. Sound the Alarm -Detection and Response/Indicators of compromise.md",
-    "6. Sound the Alarm -Detection and Response/Detection and analysis phase.md",
-    "Glossary/Week 22.md",
-    "Glossary/Week 21.md",
-    "6. Sound the Alarm -Detection and Response/tcpdump.md",
-    "Activities/Tcpdump/tcpdump vs wireshark.pdf",
-    "6. Sound the Alarm -Detection and Response/Investigate packet details.md"
+    "6. Sound the Alarm -Detection and Response/Analyzing indicators of compromise with investigative tools.md"
   ]
 }

@@ -667,6 +667,9 @@ Glossary/Week 21.md
 Glossary/Week 22.md
 Glossary/Week 23.md
 Glossary/Week 24.md
+Glossary/Week 25.md
+Glossary/Week 26.md
+Glossary/Week 27.md
 Glossary/Week 3.md
 Glossary/Week 4.md
 Glossary/Week 5.md
@@ -704,4 +707,5 @@ Security monitoring with detection tools.md#Signature-based analysis
 Security monitoring with detection tools.md#Signature-based analysis#**Advantages**
 Security monitoring with detection tools.md#Signature-based analysis#**Disadvantages**
 Untitled.md
+Week 27.md
 imges/HIDS.png.md
