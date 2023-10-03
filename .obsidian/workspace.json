@@ -8,31 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70798fcd0c45936c",
+            "id": "4e724d59adb9781b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Automate Cybersecurity Tasks with Python/Regular expression in python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "072ed39cdeee6c0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Week 28.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Week 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Week 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Glossary/Week 28.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,29 +130,13 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "64f476c3125509ce",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "97e2ff1f633b5d13",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,15 +145,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "copilot:Copilot Chat": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9d20c91eb3875700",
+  "active": "55e2bc6acdafb7d2",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "7. Automate Cybersecurity Tasks with Python/Regular expression in python.md",
     "Glossary/Course 7 glossary.pdf",
     "7. Automate Cybersecurity Tasks with Python/Reference Guide Python concepts from Course 7.pdf",
-    "7. Automate Cybersecurity Tasks with Python/Regular expression in python.md",
     "Glossary/Week 28.md",
     "7. Automate Cybersecurity Tasks with Python/Python concepts from module 3.pdf",
     "Glossary/Week 27.md",
@@ -229,7 +192,6 @@
     "6. Sound the Alarm -Detection and Response/Containment, Eradication, Recovery.md",
     "6. Sound the Alarm -Detection and Response/Triage.md",
     "5. Assets, Threats, and Vulnerabilities/Types of threat actors.md",
-    "Activities/Incident Handling/Phishing incident response playbook.pdf",
     "1. Foundations of Cybersecurity/Tools for protecting business operations.md",
     "6. Sound the Alarm -Detection and Response/Documentation.md",
     "6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md",

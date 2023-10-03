@@ -606,6 +606,9 @@
 6. Sound the Alarm -Detection and Response/tcpdump.md#Options#**-v**
 6. Sound the Alarm -Detection and Response/tcpdump.md#Options#**-w**
 6. Sound the Alarm -Detection and Response/tcpdump.md#What is tcpdump?
+7. Automate Cybersecurity Tasks with Python/Regular expression in python.md#Regular expression symbols#Constructing a pattern
+7. Automate Cybersecurity Tasks with Python/Regular expression in python.md#Regular expression symbols#Symbols for character types
+7. Automate Cybersecurity Tasks with Python/Regular expression in python.md#Regular expression symbols#Symbols to quantify occurrences
 Activities/SQL/Activity 1.md
 Activities/SQL/Activity 1.md#Task 1. Retrieve employee device data
 Activities/SQL/Activity 1.md#Task 2. Investigate login activity
@@ -670,6 +673,7 @@ Glossary/Week 24.md
 Glossary/Week 25.md
 Glossary/Week 26.md
 Glossary/Week 27.md
+Glossary/Week 28.md
 Glossary/Week 3.md
 Glossary/Week 4.md
 Glossary/Week 5.md
@@ -706,6 +710,7 @@ Security monitoring with detection tools.md#Network-based intrusion detection sy
 Security monitoring with detection tools.md#Signature-based analysis
 Security monitoring with detection tools.md#Signature-based analysis#**Advantages**
 Security monitoring with detection tools.md#Signature-based analysis#**Disadvantages**
+Untitled.canvas
 Untitled.md
 Week 27.md
 imges/HIDS.png.md
