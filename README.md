@@ -1,4 +1,6 @@
-# Google-Cybersecurity-Certificate
+# Google-Cybersecurity-Certificate(COMPLETED)
+
+![[Congratulations.mp4]]
 The Google Cybersecurity Certificate has eight courses:
 
 1.  **Foundations of Cybersecurity** — Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities. _(This is the course you just completed. Well done!)_

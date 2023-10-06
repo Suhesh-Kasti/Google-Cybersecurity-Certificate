@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f394cf83cdb9e683",
+        "id": "8e47153a4715ff40",
         "type": "tabs",
         "children": [
           {
-            "id": "4e724d59adb9781b",
+            "id": "c371f16fbc78d586",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -131,12 +139,12 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,11 +153,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55e2bc6acdafb7d2",
+  "active": "c371f16fbc78d586",
   "lastOpenFiles": [
+    "8. Into the Action/Communicate effectively with stakeholders.md",
+    "Activities/Asset Management/Control categories.pdf",
+    "Activities/Control categories.pdf",
+    "Glossary/Google Cybersecurity Certificate glossary.pdf",
+    "Glossary/Course 8 glossary.pdf",
+    "Glossary/Course 8 - Glossary.pdf",
+    "images/Congratulations.mp4",
+    "8. Into the Action/The purpose and impact of stakeholders.md",
+    "Glossary/Week 30.md",
+    "8. Into the Action/Apply the STAR method during interviews.md",
+    "8. Into the Action/Elevator pitch.md",
+    "images/starmethod.png",
+    "8. Into the Action/Escalation timing.md",
+    "8. Into the Action/Create visual dashboards for impactful cybersecurity communications.md",
+    "8. Into the Action/Recognize roles and responsibilities during escalation.md",
+    "8. Into the Action/Escalate with a purpose.md",
+    "Glossary/Week 29.md",
+    "8. Into the Action",
+    "8. Into the Action/Disaster recovery and business continuity.md",
+    "8. Into the Action/Data and asset classification.md",
     "Untitled.canvas",
     "7. Automate Cybersecurity Tasks with Python/Regular expression in python.md",
     "Glossary/Course 7 glossary.pdf",
@@ -158,13 +187,9 @@
     "7. Automate Cybersecurity Tasks with Python/Python concepts from module 3.pdf",
     "Glossary/Week 27.md",
     "6. Sound the Alarm -Detection and Response/SIEM.md",
-    "7. Automate Cybersecurity Tasks with Python/Python concepts from module 2.pdf",
     "Glossary/Week 26.md",
     "6. Sound the Alarm -Detection and Response/Detection and analysis phase.md",
     "Glossary/Week 25.md",
-    "7. Automate Cybersecurity Tasks with Python/Python concepts from module 1.pdf",
-    "7. Automate Cybersecurity Tasks with Python",
-    "Glossary/Course 6 glossary.pdf",
     "6. Sound the Alarm -Detection and Response/Suricata.md",
     "Glossary/Week 24.md",
     "images/asset&timeline.png",
@@ -173,28 +198,12 @@
     "images/chronicles.png",
     "Pasted image 20230923100236.png",
     "images/splunkchngedwww.png",
-    "images/chroniclequery.mp4",
     "images/splunkremovewww1.png",
     "images/splunkquery2.png",
     "images/splunkquery.png",
-    "images/loginjestion.png",
     "6. Sound the Alarm -Detection and Response/Components of a detection signature.md",
     "images/HIDS.png.md",
     "6. Sound the Alarm -Detection and Response/Security monitoring with detection tools.md",
-    "imges",
-    "6. Sound the Alarm -Detection and Response/Logs.md",
-    "6. Sound the Alarm -Detection and Response/Variation of Logs.md",
-    "2. Play It Safe-Manage Security Risks/NIST cybersecurity frameworks/7. Security operations.md",
-    "Activities/Incident Handling/Final report.pdf",
-    "6. Sound the Alarm -Detection and Response/Post-incident activity.md",
-    "Glossary/Week 23.md",
-    "6. Sound the Alarm -Detection and Response/Business continuity considerations.md",
-    "6. Sound the Alarm -Detection and Response/Containment, Eradication, Recovery.md",
-    "6. Sound the Alarm -Detection and Response/Triage.md",
-    "5. Assets, Threats, and Vulnerabilities/Types of threat actors.md",
-    "1. Foundations of Cybersecurity/Tools for protecting business operations.md",
-    "6. Sound the Alarm -Detection and Response/Documentation.md",
-    "6. Sound the Alarm -Detection and Response/Best practices for effective documentation.md",
-    "6. Sound the Alarm -Detection and Response/Analyzing indicators of compromise with investigative tools.md"
+    "6. Sound the Alarm -Detection and Response/Logs.md"
   ]
 }
